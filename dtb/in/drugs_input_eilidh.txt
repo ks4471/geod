@@ -1,0 +1,2901 @@
+proadifen	proadifen
+proadifen	Ethyl aprofen
+proadifen	BCTB
+proadifen	Proadifen [INN]
+proadifen	302-33-0
+proadifen	Proadifene [INN-French]
+proadifen	Proadifenum [INN-Latin]
+proadifen	Proadifeno [INN-Spanish]
+proadifen	UNII-A510CA4CBT
+proadifen	HL 8727
+proadifen	CCRIS 7248
+proadifen	2-Diethylaminoethyl propyldiphenylacetate
+proadifen	2-Diethylaminoethyl-2,2-diphenylvalerate
+proadifen	AV 54315
+proadifen	BRN 2478573
+proadifen	AI3-22951
+proadifen	CHEMBL282567
+proadifen	2-(Diethylamino)ethyl 2,2-diphenylpentanoate
+proadifen	ACETIC ACID, PROPYLDIPHENYL-, 2-(DIETHYLAMINO)ETHYL ESTER
+proadifen	2,2-Diphenylpentansaeure-2-diethylaminoethylester
+proadifen	Benzeneacetic acid, .alpha.-phenyl-.alpha.-propyl-, 2-(diethylamino)ethyl ester
+proadifen	2-diethylaminoethyl 2,2-diphenylpentanoate
+proadifen	Benzeneacetic acid, alpha-phenyl-alpha-propyl-, 2-(diethylamino)ethyl ester
+proadifen	Valeric acid, 2,2-diphenyl-, 2-(diethylamino)ethyl ester
+proadifen	Proadifene
+proadifen	Proadifeno
+proadifen	Proadifenum
+proadifen	NSC39690
+proadifen	NSC170997
+proadifen	CAS-62-68-0
+proadifen	SK-525A
+proadifen	2-(Diethylamino)ethyl 2,2-diphenylvalerate hydrochloride
+proadifen	SK&F-525-A
+proadifen	Diethylaminoethyldiphenylpropyl Acetate
+proadifen	2-Diethylaminoethyl .alpha.,.alpha.-diphenyl valerate hydrochloride
+proadifen	Spectrum_001487
+proadifen	Prestwick0_000778
+proadifen	Prestwick1_000778
+proadifen	Prestwick2_000778
+proadifen	Prestwick3_000778
+proadifen	Spectrum2_000924
+proadifen	Spectrum3_001172
+proadifen	Spectrum4_000328
+proadifen	Spectrum5_001164
+proadifen	Lopac-P-1061
+proadifen	A510CA4CBT
+proadifen	Lopac0_000906
+proadifen	BSPBio_000856
+proadifen	BSPBio_002783
+proadifen	KBioGR_000675
+proadifen	KBioSS_001967
+proadifen	4-09-00-02566 (Beilstein Handbook Reference)
+proadifen	5171 RP (Salt/Mix)
+proadifen	62-68-0 (hydrochloride)
+proadifen	RP 5171 (Salt/Mix)
+proadifen	DivK1c_000737
+proadifen	SCHEMBL122630
+proadifen	SPBio_000828
+proadifen	SPBio_002795
+proadifen	SKF-525-A (Salt/Mix)
+proadifen	AC1L1J84
+proadifen	BPBio1_000942
+proadifen	NSC-39690 (Salt/Mix)
+proadifen	DTXSID2048452
+proadifen	CHEBI:92811
+proadifen	KBio1_000737
+proadifen	KBio2_001967
+proadifen	KBio2_004535
+proadifen	KBio2_007103
+proadifen	KBio3_002283
+proadifen	MolPort-002-936-656
+proadifen	NINDS_000737
+proadifen	SNTQPLDRUZOSDP-UHFFFAOYSA-N
+proadifen	Proadifen hydrochloride (Salt/Mix)
+proadifen	ZINC1671505
+proadifen	BDBM50017716
+proadifen	HSCI1_000231
+proadifen	STK049476
+proadifen	AKOS003658590
+proadifen	CCG-204988
+proadifen	MCULE-1938474920
+proadifen	IDI1_000737
+proadifen	NCGC00015799-01
+proadifen	NCGC00015799-02
+proadifen	NCGC00015799-03
+proadifen	NCGC00015799-04
+proadifen	NCGC00162290-01
+proadifen	AJ-29216
+proadifen	LS-12811
+proadifen	AB00053629
+proadifen	2-(Diethylamino)ethyl 2,2-diphenylpentanoate #
+proadifen	AB00053629_10
+proadifen	AB00053629_11
+proadifen	2,2-Diphenylvaleric acid 2-(diethylamino)ethyl ester
+proadifen	2-Benzhydryl-pentanoic acid 2-diethylamino-ethyl ester
+proadifen	BRD-K46317332-003-05-3
+proadifen	BRD-K46317332-003-06-1
+proadifen	2,2-Diphenyl-pentanoic acid 2-diethylamino-ethyl ester
+proadifen	Valeric acid, 2,2-diphenyl-, 2-(diethylamino)ethyl ester (8CI)
+proadifen	Benzeneacetic acid, alpha-phenyl-alpha-propyl-, 2-(diethylamino)ethyl ester (9CI)
+drofenine	drofenine
+drofenine	Cycloadiphene
+drofenine	Adiphenine H
+drofenine	Trasentine-6H
+drofenine	Hexahydroadiphenine
+drofenine	Cycloadiphenine
+drofenine	Trasentine 6H
+drofenine	1679-76-1
+drofenine	Drofenine [INN-French]
+drofenine	Drofeninum [INN-Latin]
+drofenine	Drofenina [INN-Spanish]
+drofenine	BRN 2059173
+drofenine	2-(Diethylamino)ethyl cyclohexylphenylacetate
+drofenine	Drofenine HCl
+drofenine	alpha-Cyclohexylbenzeneacetic acid 2-(diethylamino)ethyl ester
+drofenine	alpha-Phenylcyclohexaneacetic acid 2-(diethylamino)ethyl ester
+drofenine	2-(diethylamino)ethyl 2-cyclohexyl-2-phenylacetate
+drofenine	alpha-Phenyl-2-(diethylamino)ethylcyclohexaneacetic acid
+drofenine	Drofeninum
+drofenine	Drofenina
+drofenine	Cyclohexaneacetic acid, alpha-phenyl-, 2-(diethylamino)ethyl ester
+drofenine	Drofenine [INN]
+drofenine	cycloadiphenine HCl
+drofenine	hexahydroadiphenine HCl
+drofenine	Spectrum_001216
+drofenine	AC1L1FBK
+drofenine	Prestwick0_000789
+drofenine	Prestwick1_000789
+drofenine	Prestwick2_000789
+drofenine	Prestwick3_000789
+drofenine	Spectrum2_000975
+drofenine	Spectrum3_001424
+drofenine	Spectrum4_000405
+drofenine	Spectrum5_001574
+drofenine	SCHEMBL25124
+drofenine	BSPBio_000898
+drofenine	BSPBio_003128
+drofenine	KBioGR_000670
+drofenine	KBioSS_001696
+drofenine	4-09-00-02145 (Beilstein Handbook Reference)
+drofenine	DivK1c_000135
+drofenine	SPBio_001009
+drofenine	SPBio_002837
+drofenine	548-66-3 (hydrochloride)
+drofenine	BPBio1_000988
+drofenine	CHEMBL442444
+drofenine	DTXSID0048472
+drofenine	CHEBI:93825
+drofenine	KBio1_000135
+drofenine	KBio2_001696
+drofenine	KBio2_004264
+drofenine	KBio2_006832
+drofenine	KBio3_002348
+drofenine	AGJBLWCLQCKRJP-UHFFFAOYSA-N
+drofenine	NINDS_000135
+drofenine	Benzeneacetic acid, .alpha.-cyclohexyl-, 2-(diethylamino)ethyl ester
+drofenine	Cyclohexaneacetic acid, .alpha.-phenyl-, 2-(diethylamino)ethyl ester
+drofenine	AKOS022181215
+drofenine	API0011283
+drofenine	MCULE-7441373873
+drofenine	IDI1_000135
+drofenine	NCGC00178252-01
+drofenine	NCGC00178252-02
+drofenine	AK-60769
+drofenine	LS-56417
+drofenine	AB00053588
+drofenine	2-diethylaminoethyl 2-cyclohexyl-2-phenylacetate
+drofenine	AB00053588_08
+drofenine	2-(Diethylamino)ethyl alpha-phenylcyclohexaneacetate
+drofenine	2-(Diethylamino)ethyl .alpha.-cyclohexylbenzeneacetate
+drofenine	2-(Diethylamino)ethyl .alpha.-phenylcyclohexaneacetate
+drofenine	BRD-A22267103-003-05-7
+drofenine	2-cyclohexyl-2-phenylacetic acid 2-(diethylamino)ethyl ester
+drofenine	Benzeneacetic acid, a-cyclohexyl-,2-(diethylamino)ethyl ester
+drofenine	Benzeneacetic acid, alpha-cyclohexyl-, 2-(diethylamino)ethyl ester
+drofenine	Benzeneacetic acid, alpha-cyclohexyl-, 2-(diethylamino)ethyl ester (9CI)
+clorgiline	Clorgiline
+clorgiline	CLORGYLINE
+clorgiline	Chlorgyline
+clorgiline	Clorgilina
+clorgiline	Clorgilinum
+clorgiline	M and B 9302
+clorgiline	Clorgilin
+clorgiline	17780-72-2
+clorgiline	UNII-LYJ16FZU9Q
+clorgiline	Clorgilinum [INN-Latin]
+clorgiline	M & B 9302
+clorgiline	Clorgilina [INN-Spanish]
+clorgiline	Clorgiline [INN]
+clorgiline	n-methyl-n-propargyl-3-(2,4-dichlorophenoxy)propylamine
+clorgiline	N-(3-(2,4-Dichlorophenoxy)propyl)-N-methyl-2-propynylamine
+clorgiline	C13H15Cl2NO
+clorgiline	CHEMBL8706
+clorgiline	Clorgiline (INN)
+clorgiline	BRN 1976758
+clorgiline	Prestwick0_000344
+clorgiline	Prestwick1_000344
+clorgiline	Prestwick2_000344
+clorgiline	Prestwick3_000344
+clorgiline	Lopac-M-3778
+clorgiline	AC1L1I1A
+clorgiline	Lopac0_000746
+clorgiline	BSPBio_000407
+clorgiline	SPBio_002328
+clorgiline	CHEBI:3763
+clorgiline	BPBio1_000449
+clorgiline	N-[3-(2,4-dichlorophenoxy)propyl]-N-methylprop-2-yn-1-amine
+clorgiline	2-Propyn-1-amine, N-(3-(2,4-dichlorophenoxy)propyl)-N-methyl-
+clorgiline	2-Propynylamine, N-(3-(2,4-dichlorophenoxy)propyl)-N-methyl-
+clorgiline	DB04017
+clorgiline	NCGC00015669-01
+clorgiline	NCGC00015669-02
+clorgiline	NCGC00015669-04
+clorgiline	NCGC00162235-01
+clorgiline	LS-125796
+clorgiline	CAS-17780-75-5
+clorgiline	C11685
+clorgiline	D03248
+clorgiline	L001342
+clorgiline	M&B 9302
+clorgiline	BRD-K73251053-003-03-2
+clorgiline	3-(2,4-dichlorophenoxy)-N-methyl-N-prop-2-ynylpropan-1-amine
+clorgiline	2-Propyn-1-amine, N-(3-(2,4-dichlorophenoxy)propyl)-N-methyl- (9CI)
+clorgiline	N-[3-(2,4-DICHLOROPHENOXY)PROPYL]-N-METHYL-N-PROP-2-YNYLAMINE
+clorgiline	CID4380
+clorgiline	2-Propyn-1-amine, N-[3-(2,4-dichlorophenoxy)propyl]-N-methyl-, hydrochloride
+clorgiline	LYJ16FZU9Q
+clorgiline	D003010
+clorgiline	SCHEMBL61914
+clorgiline	US8633208, Clorgyline
+clorgiline	GTPL6636
+clorgiline	DTXSID3048445
+clorgiline	BDBM15581
+clorgiline	BTFHLQRNAMSNLC-UHFFFAOYSA-N
+clorgiline	MolPort-002-052-034
+clorgiline	CPD-7656
+clorgiline	DAP001361
+clorgiline	ZINC22200090
+clorgiline	CCG-204831
+clorgiline	NCGC00015669-03
+clorgiline	AM005319
+clorgiline	KB-76141
+clorgiline	M&B-9302
+clorgiline	OR232422
+clorgiline	[3-(2,4-dichlorophenoxy)propyl](methyl)prop-2-yn-1-ylamine
+clorgiline	N-[3-(2,4-dichlorophenoxy)propyl]-N-methyl-prop-2-yn-1-amine
+clorgiline	3-(2,4-dichlorophenoxy)-N-methyl-N-prop-2-ynyl-propan-1-amine
+clorgiline	CLG
+propofol	propofol
+propofol	2,6-DIISOPROPYLPHENOL
+propofol	2078-54-8
+propofol	Diprivan
+propofol	Disoprofol
+propofol	Disoprivan
+propofol	Diisopropylphenol
+propofol	Fresofol
+propofol	Ampofol
+propofol	2,6-Bis(1-methylethyl)phenol
+propofol	Propofolum
+propofol	Rapinovet
+propofol	Recofol
+propofol	Phenol, 2,6-bis(1-methylethyl)-
+propofol	Ivofol
+propofol	Propofol-Lipuro
+propofol	ICI 35868
+propofol	Propovan
+propofol	Pofol
+propofol	Phenol, 2,6-diisopropyl-
+propofol	Propofolum [Latin]
+propofol	Aquafol
+propofol	Diprifusor
+propofol	Diprofol
+propofol	2,6-Diisopropyl phenol
+propofol	Diprivan 10
+propofol	UNII-YI7VU623SF
+propofol	Diprivan Injectable emulsion
+propofol	NSC 5105
+propofol	ICI-35868
+propofol	2,6-bis(propan-2-yl)phenol
+propofol	CCRIS 9000
+propofol	Dipravan
+propofol	HSDB 7123
+propofol	C12H18O
+propofol	CHEMBL526
+propofol	EINECS 218-206-6
+propofol	Propofol IDD-D
+propofol	Diprivan (TN)
+propofol	Propofol [USAN:INN:BAN]
+propofol	2,6-di(propan-2-yl)phenol
+propofol	BRN 1866484
+propofol	CHEBI:44915
+propofol	AI3-26295
+propofol	NSC5105
+propofol	2,6-diisopropyl-phenol
+propofol	2, 6-Diisopropylphenol
+propofol	AC1Q1OUI
+propofol	Prestwick0_000931
+propofol	Prestwick1_000931
+propofol	Prestwick2_000931
+propofol	Prestwick3_000931
+propofol	2,6-bis(Isopropyl)phenol
+propofol	Biomol-NT_000248
+propofol	Lopac-D126608
+propofol	ICI-35,868
+propofol	AC1L1J9Y
+propofol	Lopac0_000437
+propofol	Propofol (JAN/USAN/INN)
+propofol	BSPBio_000862
+propofol	DDS-04F
+propofol	ghl.PD_Mitscher_leg0.558
+propofol	BIDD:GT0436
+propofol	CAS-2078-54-8
+propofol	SPBio_003031
+propofol	SPECTRUM1505022
+propofol	MLS001066348
+propofol	MLS001335999
+propofol	MLS002454360
+propofol	BPBio1_000950
+propofol	BPBio1_000969
+propofol	Jsp004266
+propofol	ST50405911
+propofol	Propofol(2,6-Diisopropylphenol)
+propofol	OLBCVFGFOZPWHH-UHFFFAOYSA-N
+propofol	HMS1570L04
+propofol	HMS2089O21
+propofol	HMS2094E17
+propofol	4-06-00-03435 (Beilstein Handbook Reference)
+propofol	LS-996
+propofol	MFCD00008885
+propofol	Phenol, 2, 6-bis(1-methylethyl)-
+propofol	ZINC00968303
+propofol	AC-2038
+propofol	DB00818
+propofol	ZD-0859
+propofol	NCGC00015389-01
+propofol	NCGC00015389-02
+propofol	NCGC00015389-04
+propofol	NCGC00015389-08
+propofol	NCGC00015389-09
+propofol	NCGC00091538-01
+propofol	NCGC00091538-02
+propofol	NCGC00091538-03
+propofol	NCGC00091538-04
+propofol	NCGC00091538-05
+propofol	NCGC00091538-06
+propofol	AK-95594
+propofol	CPD000059151
+propofol	SAM002264610
+propofol	SMR000059151
+propofol	AB00513968
+propofol	D0617
+propofol	EU-0100437
+propofol	DSSTox_CID_3523
+propofol	C07523
+propofol	D00549
+propofol	DSSTox_RID_77063
+propofol	D126608
+propofol	DSSTox_GSID_23523
+propofol	PFL
+propofol	BRD-K82255054-001-03-5
+propofol	Q-201631
+propofol	S01-0189
+propofol	Propoven
+propofol	Aquafo
+propofol	Propofol Abbott
+propofol	Propofol Rovi
+propofol	Propofol MCT
+propofol	Propofol Fresenius
+propofol	InChI=1/C12H18O/c1-8(2)10-6-5-7-11(9(3)4)12(10)13/h5-9,13H,1-4H
+propofol	28449-97-0
+propofol	50356-15-5
+propofol	2,6 Diisopropylphenol
+propofol	Pisa Brand of Propofol
+propofol	Rovi Brand of Propofol
+propofol	Alpha Brand of Propofol
+propofol	Astra Brand of Propofol
+propofol	Braun Brand of Propofol
+propofol	Juste Brand of Propofol
+propofol	Abbott Brand of Propofol
+propofol	Zeneca Brand of Propofol
+propofol	Curamed Brand of Propofol
+propofol	Parnell Brand of Propofol
+propofol	Schering Brand of Propofol
+propofol	Fresenius Brand of Propofol
+propofol	Diprivanreg
+propofol	Propolipid
+propofol	Anespro
+propofol	Anesvan
+propofol	Critifol
+propofol	Dormofol
+propofol	Gobbifol
+propofol	Hipnolam
+propofol	Profolen
+propofol	Propofabb
+propofol	Propofil
+propofol	Propogen
+propofol	Provive
+propofol	Troypofol
+propofol	Anepol
+propofol	AstraZeneca Brand of Propofol
+propofol	Plofed
+propofol	Profol
+propofol	Trivam
+propofol	Unifol
+propofol	Safol
+propofol	Act Propofol
+propofol	PMS-propofol
+propofol	Oleo-Lax
+propofol	Fresenius Kabi Brand of Propofol
+propofol	CID4943
+propofol	Propofol Injection
+propofol	ICI35868
+propofol	IV-Pro
+propofol	ICI35,868
+propofol	Propofol (Diprivan)
+propofol	ICI 35,868
+propofol	Propofol-II Injection
+propofol	nchembio.552-comp7
+propofol	Phenol,6-diisopropyl-
+propofol	Diprivan Eml IV 1%
+propofol	ACMC-1CPLW
+propofol	2,6-di isopropyl phenol
+propofol	Diisopropylphenol (Related)
+propofol	2,6-bis(methylethyl)phenol
+propofol	YI7VU623SF
+propofol	2,6-Bis(Isopropyl)-phenol
+propofol	D015742
+propofol	SCHEMBL36245
+propofol	KSC490K5P
+propofol	D126608_ALDRICH
+propofol	W505102_ALDRICH
+propofol	2,6-Diisopropylphenol, 97%
+propofol	GTPL5464
+propofol	Phenol,6-bis(1-methylethyl)-
+propofol	DTXSID6023523
+propofol	2,6-bis(1-methylethyl)-phenol
+propofol	CTK3J0557
+propofol	2,6-Diisopropylphenol, >=97%
+propofol	3f33
+propofol	3p50
+propofol	MolPort-001-794-517
+propofol	HMS2097L04
+propofol	HMS2231E16
+propofol	HMS3259E03
+propofol	HMS3261G16
+propofol	HMS3369I16
+propofol	Pharmakon1600-01505022
+propofol	ZINC968303
+propofol	ACN-S001252
+propofol	NSC-5105
+propofol	Tox21_110134
+propofol	Tox21_201371
+propofol	Tox21_303225
+propofol	Tox21_500437
+propofol	AM-149
+propofol	ANW-24224
+propofol	BDBM50058046
+propofol	BG0301
+propofol	CP0141
+propofol	CPD-11437
+propofol	DAP000662
+propofol	NSC758909
+propofol	AKOS009159417
+propofol	Tox21_110134_1
+propofol	AM90311
+propofol	AN-3506
+propofol	API0002414
+propofol	CCG-204529
+propofol	FCH2257960
+propofol	LP00437
+propofol	MCULE-1903292305
+propofol	NC00449
+propofol	NSC-758909
+propofol	RP23984
+propofol	RTR-009757
+propofol	TRA0038441
+propofol	VZ22957
+propofol	MLS-0318084
+propofol	NCGC00015389-03
+propofol	NCGC00015389-05
+propofol	NCGC00015389-06
+propofol	NCGC00015389-07
+propofol	NCGC00015389-10
+propofol	NCGC00015389-11
+propofol	NCGC00015389-14
+propofol	NCGC00257228-01
+propofol	NCGC00260670-01
+propofol	NCGC00261122-01
+propofol	AJ-24593
+propofol	BBV-34553268
+propofol	CJ-04649
+propofol	H835
+propofol	OR026775
+propofol	OR113586
+propofol	OR240990
+propofol	SC-18796
+propofol	ZB015550
+propofol	2,6-Diisopropylphenol, analytical standard
+propofol	BCP0726000298
+propofol	MLS-0318084.P017
+propofol	AX8068366
+propofol	PHENOXY, 2,6-BIS(1-METHYLETHYL)-
+propofol	ST2415947
+propofol	TR-009757
+propofol	FT-0610672
+propofol	AB00513968-07
+propofol	AB00513968_08
+propofol	A814898
+propofol	SR-01000075468
+propofol	SR-01000075468-1
+propofol	T7102117
+propofol	Propofol, European Pharmacopoeia (EP) Reference Standard
+propofol	Propofol, United States Pharmacopeia (USP) Reference Standard
+propofol	Propofol, pharmaceutical secondary standard; traceable to USP, PhEur, BP
+propofol	Propofol for peak identification, European Pharmacopoeia (EP) Reference Standard
+lovastatin	lovastatin
+lovastatin	mevinolin
+lovastatin	Mevacor
+lovastatin	75330-75-5
+lovastatin	Monacolin K
+lovastatin	Lovalip
+lovastatin	Altoprev
+lovastatin	Altocor
+lovastatin	Lovalord
+lovastatin	Mevinacor
+lovastatin	Nergadan
+lovastatin	6alpha-Methylcompactin
+lovastatin	Artein
+lovastatin	MK-803
+lovastatin	Hipovastin
+lovastatin	Lovastatine
+lovastatin	Lovasterol
+lovastatin	Cholestra
+lovastatin	Closterol
+lovastatin	Colevix
+lovastatin	Hipolip
+lovastatin	Lestatin
+lovastatin	Lipivas
+lovastatin	Lipofren
+lovastatin	Lovastin
+lovastatin	Lozutin
+lovastatin	Paschol
+lovastatin	Rodatin
+lovastatin	Rovacor
+lovastatin	Tecnolip
+lovastatin	Teroltrat
+lovastatin	Belvas
+lovastatin	Lipdip
+lovastatin	Mevlor
+lovastatin	Sivlor
+lovastatin	Taucor
+lovastatin	6-alpha-Methylcompactin
+lovastatin	Lovastatinum
+lovastatin	Lovastatina
+lovastatin	Lovastatine [French]
+lovastatin	Lovastatinum [Latin]
+lovastatin	Lovastatina [Spanish]
+lovastatin	6-Methylcompactin
+lovastatin	UNII-9LHU78OQFD
+lovastatin	MSD 803
+lovastatin	MK 803
+lovastatin	Liposcler
+lovastatin	Rextat
+lovastatin	MLS000069585
+lovastatin	HSDB 6534
+lovastatin	Monakolin K
+lovastatin	1cqp
+lovastatin	Mevacor (TN)
+lovastatin	Prestwick_819
+lovastatin	Lovastatin [USAN:BAN:INN]
+lovastatin	BRN 3631989
+lovastatin	CCRIS 8092
+lovastatin	SMR000058779
+lovastatin	CHEBI:40303
+lovastatin	Lovastatin & Primycin
+lovastatin	ML-530B
+lovastatin	6 alpha-Methylcompactin
+lovastatin	Lovastatin (USP/INN)
+lovastatin	C24H36O5
+lovastatin	Prestwick0_000516
+lovastatin	Prestwick1_000516
+lovastatin	Prestwick2_000516
+lovastatin	Prestwick3_000516
+lovastatin	Spectrum3_001873
+lovastatin	Spectrum5_001294
+lovastatin	CHEMBL503
+lovastatin	AC1L1EI6
+lovastatin	AC1Q2C7T
+lovastatin	BIDD:PXR0113
+lovastatin	NCGC00023509-03
+lovastatin	2beta,6alpha-Dimethyl-8alpha-(2-methyl-1-oxobutoxy)-mevinic acid lactone
+lovastatin	BSPBio_000471
+lovastatin	BSPBio_001265
+lovastatin	BSPBio_003346
+lovastatin	ARONIS24208
+lovastatin	BIDD:GT0749
+lovastatin	DivK1c_001032
+lovastatin	SPBio_002392
+lovastatin	SPECTRUM1503977
+lovastatin	MLS001055358
+lovastatin	BPBio1_000519
+lovastatin	MEGxm0_000398
+lovastatin	(1S,3R,7S,8S,8aR)-8-{2-[(2R,4R)-4-hydroxy-6-oxotetrahydro-2H-pyran-2-yl]ethyl}-3,7-dimethyl-1,2,3,7,8,8a-hexahydronaphthalen-1-yl (2S)-2-methylbutanoate
+lovastatin	ACon0_000534
+lovastatin	ACon1_000390
+lovastatin	HMS503O05
+lovastatin	KBio1_001032
+lovastatin	KBio3_002848
+lovastatin	NINDS_001032
+lovastatin	BB_NC-1457
+lovastatin	HMS1569H13
+lovastatin	HMS1792O07
+lovastatin	HMS1923O13
+lovastatin	HMS1990O07
+lovastatin	HMS2089M06
+lovastatin	HMS2093O03
+lovastatin	MFCD00072164
+lovastatin	STK801953
+lovastatin	ZINC03812841
+lovastatin	(1S,3R,7S,8S,8aR)-1,2,3,7,8,8a-Hexahydro-3,7-dimethyl-8-(2-(2R,4R)-(tetrahydro-4-hydroxy-6-oxo-2H-pyran-2-yl)ethyl)-1-naphthalenyl (S)-2-methyl-butyrate
+lovastatin	DB00227
+lovastatin	IDI1_001032
+lovastatin	NCGC00023509-04
+lovastatin	NCGC00023509-05
+lovastatin	NCGC00023509-06
+lovastatin	NCGC00023509-07
+lovastatin	NCGC00023509-08
+lovastatin	AC-13961
+lovastatin	CPD000673570
+lovastatin	LS-46359
+lovastatin	SAM002589963
+lovastatin	SMR000673570
+lovastatin	DSSTox_CID_784
+lovastatin	L0214
+lovastatin	EN300-52515
+lovastatin	C07074
+lovastatin	D00359
+lovastatin	DSSTox_RID_75788
+lovastatin	DSSTox_GSID_20784
+lovastatin	(1S,3R,7S,8S,8aR)-8-{2-[(2R,4R)-4-hydroxy-6-oxooxan-2-yl]ethyl}-3,7-dimethyl-1,2,3,7,8,8a-hexahydronaphthalen-1-yl (2S)-2-methylbutanoate
+lovastatin	(1S-(1alpha(R*),3alpha,7beta,8beta(2S*,4S*),8abeta))-2-Methylbutanoic acid 1,2,3,7,8,8a-hexahydro-3,7-dimethyl-8-(2-(tetrahydro-4-hydroxy-6-oxo-2H-pyran-2-yl)ethyl)-1-naphthalenyl ester
+lovastatin	1,2,6,7,8,8a-Hexahydro-beta,delta-dihydroxy-2,6-dimethyl-8-(2-methyl-1-oxobutyoxy)-1-naphthaleneheptanoic acid delta-lactone
+lovastatin	74133-25-8
+lovastatin	Butanoic acid, 2-methyl-, 1,2,3,7,8,8a-hexahydro-3,7-dimethyl-8-(2-(tetrahydro-4-hydroxy-6-oxo-2H-pyran-2-yl)ethyl)-1-naphthalenyl ester, (1S-(1alpha(R*),3alpha,7beta,8beta(2S*,4S*),8abeta))-
+lovastatin	BRD-K09416995-001-06-8
+lovastatin	I06-1876
+lovastatin	L-154803
+lovastatin	6 Methylcompactin
+lovastatin	[(1S,3R,7S,8S,8aR)-8-[2-[(2R,4R)-4-hydroxy-6-oxooxan-2-yl]ethyl]-3,7-dimethyl-1,2,3,7,8,8a-hexahydronaphthalen-1-yl] (2S)-2-methylbutanoate
+lovastatin	71949-96-7
+lovastatin	81739-26-6
+lovastatin	Butanoic acid, 2-methyl-, (1S,3R,7S,8S,8aR)-1,2,3,7,8,8a-hexahydro-3,7-dimethyl-8-(2-(tetrahydro-4-hydroxy-6-oxo-2H-pyran-2-yl)ethyl)-1-naphthalenyl ester, (2S)-
+lovastatin	butanoic acid, 2-methyl-, (1S,3R,7S,8S,8aR)-1,2,3,7,8,8a-hexahydro-3,7-dimethyl-8-[2-[(2R,4R)-tetrahydro-4-hydroxy-6-oxo-2H-pyran-2-yl]ethyl]-1-naphthalenyl ester, (2S)-
+lovastatin	lostatin
+lovastatin	Mevacorreg
+lovastatin	Riva-lovastatin
+lovastatin	Teva-lovastatin
+lovastatin	Ava-lovastatin
+lovastatin	Dom-lovastatin
+lovastatin	Pro-lovastatin
+lovastatin	Ran-lovastatin
+lovastatin	Act Lovastatin
+lovastatin	Mylan-lovastatin
+lovastatin	Ratio-lovastatin
+lovastatin	PHL-lovastatin
+lovastatin	PMS-lovastatin
+lovastatin	Sandoz Lovastatin
+lovastatin	KS-1082
+lovastatin	Lovastatin-20
+lovastatin	Lovastatin-40
+lovastatin	MK803
+lovastatin	(+)-mevinolin
+lovastatin	(S)-2-Methylbutyric acid, 8-ester with (4R,6R)-6-(2-((1S,2S,6R,8S,8aR)-1,2,6,7,8,8a-hexahydro-8-hydroxy-2,6-dimethyl-1-naphthyl)ethyl)tetrahydro-4-hydroxy-2H-pyran-2-one
+lovastatin	[(1S,3R,7S,8S,8aR)-8-[2-[(2R,4R)-4-hydroxy-6-oxo-tetrahydropyran-2-yl]ethyl]-3,7-dimethyl-1,2,3,7,8,8a-hexahydronaphthalen-1-yl] (2S)-2-methylbutanoate
+lovastatin	CID53232
+lovastatin	Lovastatin, (1 alpha(S*))-Isomer
+lovastatin	CAS-75330-75-5
+lovastatin	Lovastatin [USAN]
+lovastatin	nchembio742-comp5
+lovastatin	Nu-lovastatin Tablets
+lovastatin	nchembio790-comp14
+lovastatin	nchembio869-comp12
+lovastatin	Opera_ID_1578
+lovastatin	Lovastatin, 97%  5g
+lovastatin	9LHU78OQFD
+lovastatin	SCHEMBL3136
+lovastatin	Apo-lovastatin - Tab 20mg
+lovastatin	Apo-lovastatin - Tab 40mg
+lovastatin	D008148
+lovastatin	cid_53232
+lovastatin	KSC377A8D
+lovastatin	MLS006011867
+lovastatin	M2147_SIGMA
+lovastatin	Mevinolin from Aspergillus sp.
+lovastatin	GTPL2739
+lovastatin	DTXSID5020784
+lovastatin	SCHEMBL14227102
+lovastatin	BDBM34168
+lovastatin	CTK2H7081
+lovastatin	AOB5269
+lovastatin	MolPort-001-739-990
+lovastatin	PCZOHLXUXFIOCF-BXMDZJJMSA-N
+lovastatin	HMS2096H13
+lovastatin	HMS2236F07
+lovastatin	HMS3039N16
+lovastatin	HMS3259F10
+lovastatin	HMS3268C03
+lovastatin	HMS3403O07
+lovastatin	Pharmakon1600-01503977
+lovastatin	2-Methyl-1,2,3,7,8,8a-hexahydro-3,7-dimethyl-8-[2-(tetrahydro-4-hydroxy-6-oxo-2H-pyran-2-yl)ethyl]-1-naphthalenyl ester butanoic acid
+lovastatin	ACT02620
+lovastatin	BB_NC-01457
+lovastatin	Butanoic acid, 2-methyl-, (1S,3R,7S,8S,8aR)-1,2,3,7,8,8a-hexahydro-3,7-dimethyl-8-(2-((2R,4R)-tetrahydro-4-hydroxy-6-oxo-2H-pyran-2-yl)ethyl)-1-naphthalenyl ester, (2S)-
+lovastatin	CPD-5561
+lovastatin	HY-N0504
+lovastatin	ZINC3812841
+lovastatin	Tox21_110888
+lovastatin	Tox21_201475
+lovastatin	Tox21_300268
+lovastatin	ANW-41686
+lovastatin	BBL024473
+lovastatin	BG0243
+lovastatin	CCG-39627
+lovastatin	DAP000551
+lovastatin	NSC633781
+lovastatin	NSC758662
+lovastatin	SBB080686
+lovastatin	AKOS005267139
+lovastatin	Tox21_110888_1
+lovastatin	CS-1990
+lovastatin	EBD2126857
+lovastatin	MCULE-4740518260
+lovastatin	MCULE-7087866108
+lovastatin	Mevinolin from Aspergillus sp., powder
+lovastatin	NC00713
+lovastatin	NSC-633781
+lovastatin	NSC-758662
+lovastatin	RTR-031803
+lovastatin	NCGC00023509-09
+lovastatin	NCGC00023509-10
+lovastatin	NCGC00023509-11
+lovastatin	NCGC00023509-13
+lovastatin	NCGC00023509-14
+lovastatin	NCGC00254157-01
+lovastatin	NCGC00259026-01
+lovastatin	CC-30040
+lovastatin	CC-30041
+lovastatin	CJ-10768
+lovastatin	DR002391
+lovastatin	G226
+lovastatin	HE113887
+lovastatin	HE386048
+lovastatin	HE391445
+lovastatin	SAM002589904
+lovastatin	SC-11968
+lovastatin	AB0108514
+lovastatin	FT-0658728
+lovastatin	N1632
+lovastatin	J10136
+lovastatin	S-7779
+lovastatin	28048-EP2269989A1
+lovastatin	28048-EP2270011A1
+lovastatin	28048-EP2272825A2
+lovastatin	28048-EP2272841A1
+lovastatin	28048-EP2277507A1
+lovastatin	28048-EP2277865A1
+lovastatin	28048-EP2280006A1
+lovastatin	28048-EP2281813A1
+lovastatin	28048-EP2284158A1
+lovastatin	28048-EP2286795A1
+lovastatin	28048-EP2287165A2
+lovastatin	28048-EP2287166A2
+lovastatin	28048-EP2289892A1
+lovastatin	28048-EP2292620A2
+lovastatin	28048-EP2295406A1
+lovastatin	28048-EP2295409A1
+lovastatin	28048-EP2298742A1
+lovastatin	28048-EP2298745A1
+lovastatin	28048-EP2298772A1
+lovastatin	28048-EP2298776A1
+lovastatin	28048-EP2298779A1
+lovastatin	28048-EP2301923A1
+lovastatin	28048-EP2301931A1
+lovastatin	28048-EP2301936A1
+lovastatin	28048-EP2305648A1
+lovastatin	28048-EP2308839A1
+lovastatin	28048-EP2311808A1
+lovastatin	28048-EP2311829A1
+lovastatin	28048-EP2314588A1
+lovastatin	96638-EP2287163A1
+lovastatin	96638-EP2305678A1
+lovastatin	AB00052400-17
+lovastatin	AB00052400_18
+lovastatin	AB00052400_19
+lovastatin	Mevinolin from Aspergillus sp., >=98% (HPLC)
+lovastatin	117141-EP2272825A2
+lovastatin	117141-EP2298776A1
+lovastatin	A838030
+lovastatin	C-21799
+lovastatin	SR-01000000123
+lovastatin	SR-01000000123-3
+lovastatin	Lovastatin, 1 alpha-Isomer (without R*/S* notation)
+lovastatin	(1S,3R,7S,8S,8aR)-8-(2-((2R,4R)-4-hydroxy-6-oxotetrahydro-2H-pyran-2-yl)ethyl)-3,7-dimethyl-1,2,3,7,8,8a-hexahydronaphthalen-1-yl (S)-2-methylbutanoate
+lovastatin	(2S)-2-Methylbutanoic acid (1S,3R,7S,8S,8aR)-1,2,3,7,8,8a-hexahydro-3,7-dimethyl-8-[2-[(2R,4R)-tetrahydro-4-hydroxy-6-oxo-2H-pyran-2-yl]ethyl]-1-naphthalenyl ester
+lovastatin	(2S)-2-methylbutanoic acid [(1S,3R,7S,8S,8aR)-8-[2-[(2R,4R)-4-hydroxy-6-oxo-2-oxanyl]ethyl]-3,7-dimethyl-1,2,3,7,8,8a-hexahydronaphthalen-1-yl] ester
+lovastatin	(S)-2-Methyl-butyric acid (1S,3R,7S,8S,8aR)-8-[2-((3R,5R)-4-hydroxy-6-oxo-tetrahydro-pyran-2-yl)-ethyl]-3,7-dimethyl-1,2,3,7,8,8a-hexahydronaphthalen-1-yl ester
+lovastatin	[(1S,3R,7S,8S,8aR)-3,7-dimethyl-8-[2-[(2R,4R)-4-oxidanyl-6-oxidanylidene-oxan-2-yl]ethyl]-1,2,3,7,8,8a-hexahydronaphthalen-1-yl] (2S)-2-methylbutanoate
+lovastatin	1S,7S,8S,8aR)-8-{2-[(2R,4R)-4-hydroxy-6-oxooxan-2-yl]ethyl}-3,7-dimethyl-1,2,3,7,8,8a-hexahydronaphthalen-1-yl (2S)-2-methylbutanoate
+lovastatin	8-[2-((2R,4R)-4-hydroxy-6-oxo(2H-3,4,5-trihydropyran-2-yl))ethyl](1S,7S,8S,3R, 8aR)-3,7-dimethyl-1,2,3,7,8,8a-hexahydronaphthyl (2S)-2-methylbutanoate
+lovastatin	8-[2-(4-Hydroxy-6-oxotetrahydro-2H-pyran-2-yl)ethyl]-3,7-dimethyl-1,2,3,7,8,8a-hexahydro-1-naphthalenyl 2-methylbutanoate
+lovastatin	Butanoic acid, 2-methyl-, 1,2,3,7,8,8a-hexahydro-3,7-dimethyl-8-(2-(tetrahydro-4-hydroxy-6-- oxo-2H-pyran-2-yl)ethyl)-1-naphthalenyl ester, (1S-(1alpha(R*),3alpha,7beta,8beta(2S*,4S*),8abeta))-
+lovastatin	Butanoic acid, 2-methyl-, 1,2,3,7,8,8a-hexahydro-3,7-dimethyl-8-(2-(tetrahydro-4-hydroxy-6-oxo-2H-pyran-2-yl)ethyl)-1-naphthalenyl ester, (1S-(1-alpha-(R*),3-alpha,7-beta,8-beta-(2S*,4S*),8a-beta))-
+lovastatin	Butanoic acid, 2-methyl-,1,2,3,7,8,8a-hexahydro-3,7-dimethyl-8-(2-(tetrahydro-4-hydroxy-6-oxo-2H-pyran-2-yl)ethyl)-1-naphthalenyl ester,(1S-(1alpha(R*),3alpha,7beta,8beta(2S*,4S*),8abeta))
+lovastatin	Lovastatin|Mevinolin|(2S)-(1S,3R,7S,8S,8aR)-1,2,3,7,8,8a-Hexahydro-3,7-dimethyl-8-[2-[(2R,4R)-tetrahydro-4-hydroxy-6-oxo-2H-pyran-2-yl]ethyl]-1-naphthalenyl-2-methyl butanoate
+lynestrenol	LYNESTRENOL
+lynestrenol	Linestrenol
+lynestrenol	52-76-6
+lynestrenol	Ethinylestrenol
+lynestrenol	Ethynylestrenol
+lynestrenol	Lynoestrenol
+lynestrenol	Orgametril
+lynestrenol	Orgametrol
+lynestrenol	Exluton
+lynestrenol	Endometril
+lynestrenol	Exlution
+lynestrenol	Exlutona
+lynestrenol	Orgametil
+lynestrenol	3-Desoxynorlutin
+lynestrenol	Ethynloestrenol
+lynestrenol	Exluten
+lynestrenol	Lynenol
+lynestrenol	Lynstranol
+lynestrenol	Ethinyloestranol
+lynestrenol	Ethinyl oestrenol
+lynestrenol	Org 485-50
+lynestrenol	IND 1006
+lynestrenol	Linestrenolo [DCIT]
+lynestrenol	17alpha-Ethynylestrenol
+lynestrenol	17-alpha-Ethynylestrenol
+lynestrenol	17-alpha-Ethynyloestrenol
+lynestrenol	UNII-N2Z8ALG4U5
+lynestrenol	Linestrenol [INN-Spanish]
+lynestrenol	Lynestrenolum [INN-Latin]
+lynestrenol	NSC-37725
+lynestrenol	CCRIS 9093
+lynestrenol	EINECS 200-151-4
+lynestrenol	Lynoestrenol [Progestins]
+lynestrenol	NSC 37725
+lynestrenol	17.alpha.-Ethynylestrenol
+lynestrenol	19-Norpregn-4-en-20-yn-17-ol, (17alpha)-
+lynestrenol	Estr-4-en-17beta-ol, 17-ethynyl-
+lynestrenol	17-alpha-Ethynylestr-4-en-17-beta-ol
+lynestrenol	delta4-17alpha-Ethinylestren-17beta-ol
+lynestrenol	17-alpha-Ethynyloestr-4-en-17-beta-ol
+lynestrenol	17-alpha-Ethinyl-17-beta-hydroxyestr-4-ene
+lynestrenol	19-Nor-17alpha-pregn-4-en-20-yn-17-ol
+lynestrenol	17-alpha-Ethinyl-17-beta-hydroxyoestr-4-ene
+lynestrenol	CHEBI:31790
+lynestrenol	17-alpha-Ethynil-delta-4-estrene-17-beta-ol
+lynestrenol	(17-alpha)-19-Norpregn-4-en-20-yn-17-ol
+lynestrenol	delta(sup 4)-17-alpha-Ethinylestren-17-beta-ol
+lynestrenol	delta(sup 4)-17-alpha-Ethinyloestren-17-beta-ol
+lynestrenol	NSC37725
+lynestrenol	19-Norpregn-4-en-20-yn-17-ol, (17.alpha.)-
+lynestrenol	19-norpregn-4-en-20-yn-17alpha-ol
+lynestrenol	AK161684
+lynestrenol	Estr-4-en-17.beta.-ol, 17-ethynyl-
+lynestrenol	19-Nor-17-alpha-pregn-4-en-20-yn-17-ol
+lynestrenol	19-Nor-17.alpha.-pregn-4-en-20-yn-17-ol
+lynestrenol	.DELTA.4-17.alpha.-Ethinylestren-17.beta.-ol
+lynestrenol	19 Norpregn-4-en-20-yn-17-ol, (17alpha)-
+lynestrenol	(8R,9S,10R,13S,14S,17R)-17-ethynyl-13-methyl-2,3,6,7,8,9,10,11,12,14,15,16-dodecahydro-1H-cyclopenta[a]phenanthren-17-ol
+lynestrenol	Linesterol
+lynestrenol	Linestrenolo
+lynestrenol	Lynestrenolum
+lynestrenol	Lynestrenol [USAN:INN:JAN]
+lynestrenol	HSDB 7899
+lynestrenol	(17alpha)-17-ethynylestr-4-en-17-ol
+lynestrenol	Lynestrenol [USAN:INN:BAN:JAN]
+lynestrenol	Prestwick_533
+lynestrenol	AC1L1LAE
+lynestrenol	Prestwick0_000095
+lynestrenol	Prestwick1_000095
+lynestrenol	Prestwick2_000095
+lynestrenol	Prestwick3_000095
+lynestrenol	Lynestrenol (JAN/USAN)
+lynestrenol	N2Z8ALG4U5
+lynestrenol	SCHEMBL37816
+lynestrenol	BSPBio_000050
+lynestrenol	SPBio_001989
+lynestrenol	17-Ethynylestr-4-en-17-ol
+lynestrenol	BPBio1_000056
+lynestrenol	CHEMBL2107431
+lynestrenol	YNVGQYHLRCDXFQ-XGXHKTLJSA-N
+lynestrenol	HMS1568C12
+lynestrenol	HMS2095C12
+lynestrenol	NSC73879
+lynestrenol	LMST02030127
+lynestrenol	NSC-73879
+lynestrenol	ZINC03875355
+lynestrenol	AKOS024462708
+lynestrenol	19-Nor-4-pregnen-20-yn-17beta-ol
+lynestrenol	CCG-220095
+lynestrenol	LS-7125
+lynestrenol	NCGC00179676-01
+lynestrenol	AJ-46418
+lynestrenol	AN-41632
+lynestrenol	PL000178
+lynestrenol	SC-47263
+lynestrenol	L0246
+lynestrenol	ST24047514
+lynestrenol	19-Norpregn-4-en-20-yn-17-ol,(17a)-
+lynestrenol	C13037
+lynestrenol	D01580
+lynestrenol	19-Nor-17alpha-pregn-4-en-20-yn-17-ol (8CI)
+lynestrenol	3B1-005902
+lynestrenol	(1S,2R,10R,11S,14R,15S)-14-ETHYNYL-15-METHYLTETRACYCLO[8.7.0.0(2),?.0(1)(1),(1)?]HEPTADEC-6-EN-14-OL
+lynestrenol	(1S,2R,10R,11S,14R,15S)-14-ethynyl-15-methyltetracyclo[8.7.0.0?,?.0??,??]heptadec-6-en-14-ol
+oxybutynin	oxybutynin
+oxybutynin	5633-20-5
+oxybutynin	Ditropan
+oxybutynin	Oxytrol
+oxybutynin	Oxibutinina
+oxybutynin	Oxibutyninum
+oxybutynin	Oxybutynine
+oxybutynin	Oxybutyninum
+oxybutynin	Oxybutynine [INN-French]
+oxybutynin	Oxybutyninum [INN-Latin]
+oxybutynin	Cystrin
+oxybutynin	Oxybutinin
+oxybutynin	Pollakisu
+oxybutynin	Oxibutinina [INN-Spanish]
+oxybutynin	Ditropan Xl
+oxybutynin	Oxybutynin [USAN:INN:BAN]
+oxybutynin	CCRIS 1923
+oxybutynin	Oxybutynin Base
+oxybutynin	HSDB 3270
+oxybutynin	transdermal patch
+oxybutynin	4-Diethylamino-2-butinyl alpha-cyclohexylmandelat
+oxybutynin	Lyrinel XL
+oxybutynin	CHEMBL1231
+oxybutynin	4-Diethylamino-2-butynyl alpha-phenylcyclohexaneglycolate
+oxybutynin	Oxytrol (TN)
+oxybutynin	Gelnique
+oxybutynin	UNII-K9P6MC7092
+oxybutynin	CHEBI:7856
+oxybutynin	oxybutynin topical gel
+oxybutynin	S1754_Selleck
+oxybutynin	Cyclohexaneglycolic acid, alpha-phenyl-, 4-(diethylamino)-2-butynyl ester
+oxybutynin	AC1L1ILV
+oxybutynin	Oxybutynin (USAN/INN)
+oxybutynin	Prestwick0_000287
+oxybutynin	Prestwick1_000287
+oxybutynin	Prestwick2_000287
+oxybutynin	Prestwick3_000287
+oxybutynin	Benzeneacetic acid, alpha-cyclohexyl-alpha-hydroxy-, 4-(diethylamino)-2-butynyl ester
+oxybutynin	4-(diethylamino)but-2-yn-1-yl cyclohexyl(hydroxy)phenylacetate
+oxybutynin	4-(Diethylamino)-2-butynyl alpha-phenylcyclohexaneglycolic acid ester
+oxybutynin	Lopac0_000923
+oxybutynin	BSPBio_000194
+oxybutynin	SPBio_002413
+oxybutynin	BPBio1_000214
+oxybutynin	1508-65-2 (hydrochloride)
+oxybutynin	XIQVNETUBQGFHX-UHFFFAOYSA-N
+oxybutynin	4-(diethylamino)but-2-ynyl 2-cyclohexyl-2-hydroxy-2-phenylacetate
+oxybutynin	AC-2153
+oxybutynin	DB01062
+oxybutynin	NCGC00015767-06
+oxybutynin	NCGC00089795-02
+oxybutynin	4-(diethylamino)-2-butynyl-alpha-phenylcyclohexaneglycolate
+oxybutynin	AK162584
+oxybutynin	LS-28714
+oxybutynin	Ditropan, Lyrinel XL, Oxytrol, Oxybutynin
+oxybutynin	FT-0082890
+oxybutynin	4-(diethylamino)-2-butynyl-alpha-cyclohexyl-alpha-hydroxybenzeneacetate
+oxybutynin	4-(diethylamino)but-2-yn-1-yl 2-cyclohexyl-2-hydroxy-2-phenylacetate
+oxybutynin	C07360
+oxybutynin	Cyclohexaneglycolic acid, .alpha.-phenyl-, 4-(diethylamino)-2-butynyl ester
+oxybutynin	D00465
+oxybutynin	L000923
+oxybutynin	BRD-A65013509-003-03-8
+oxybutynin	I06-2117
+oxybutynin	kentera
+oxybutynin	Anturol
+oxybutynin	Apo-Oxybutynin
+oxybutynin	Nu-Oxybutyn
+oxybutynin	PMS-Oxybutynin
+oxybutynin	Oxytrol for Women
+oxybutynin	Oxybutynin transdermal
+oxybutynin	Oxybutynin transdermal patch
+oxybutynin	Cystrinreg
+oxybutynin	Ditropanreg
+oxybutynin	Lenditro
+oxybutynin	Uromax
+oxybutynin	Riva-oxybutynin
+oxybutynin	Teva-oxybutynin
+oxybutynin	Ava-oxybutynin
+oxybutynin	Ntp-oxybutynin
+oxybutynin	Mylan-oxybutynin
+oxybutynin	PHL-oxybutynin
+oxybutynin	Albert Oxybutynin
+oxybutynin	CID4634
+oxybutynin	Oxybutyn - 5mg
+oxybutynin	Anturol (TN)
+oxybutynin	(+/-)-oxybutynin
+oxybutynin	Ditropan Tablets 5mg
+oxybutynin	Ditropan Syrup 1mg/ml
+oxybutynin	Nu-oxybutyn - Tab 5mg
+oxybutynin	Ditropan XL  -(5mg)
+oxybutynin	Pat-oxybutynin Chloride ER
+oxybutynin	Apo-oxybutynin - Tab 5mg
+oxybutynin	Ditropan XL  -(10mg)
+oxybutynin	SCHEMBL2992
+oxybutynin	Ditropan;Lyrinel XL;Oxytrol
+oxybutynin	Dom-oxybutynin 5 Mg Tablets
+oxybutynin	GTPL359
+oxybutynin	MLS006010052
+oxybutynin	Oxybutynine-5  -  Tab 5mg
+oxybutynin	DTXSID0023406
+oxybutynin	OXYBUTYNIN, Oxybutynin chloride
+oxybutynin	Penta-oxybutynin Chloride Tablets
+oxybutynin	MolPort-003-849-741
+oxybutynin	HY-B0267
+oxybutynin	Oxybutynin Chloride Extended Release
+oxybutynin	BDBM50165019
+oxybutynin	DAP001128
+oxybutynin	MFCD00865252
+oxybutynin	AKOS015896242
+oxybutynin	API0007236
+oxybutynin	CCG-205005
+oxybutynin	CS-2255
+oxybutynin	KS-5221
+oxybutynin	MCULE-3407007074
+oxybutynin	Oxybutynin-Supplied by Selleck Chemicals
+oxybutynin	NCGC00015767-03
+oxybutynin	NCGC00015767-04
+oxybutynin	NCGC00015767-07
+oxybutynin	NCGC00015767-09
+oxybutynin	AN-14276
+oxybutynin	CC-33425
+oxybutynin	DR001867
+oxybutynin	LP048773
+oxybutynin	O222
+oxybutynin	OR285581
+oxybutynin	SC-26752
+oxybutynin	SMR001550466
+oxybutynin	AB0013281
+oxybutynin	AB2000274
+oxybutynin	AX8146542
+oxybutynin	ST24048863
+oxybutynin	K-9978
+oxybutynin	27815-EP2269989A1
+oxybutynin	27815-EP2275420A1
+oxybutynin	27815-EP2280008A2
+oxybutynin	27815-EP2298767A1
+oxybutynin	27815-EP2314587A1
+oxybutynin	C-20821
+oxybutynin	Oxybutynin Chlorideextended Release Extended Release
+oxybutynin	4-(Diethylamino)-2-butynyl .alpha.-phenylcyclohexaneglycolate
+oxybutynin	4-(Diethylamino)-2-butynyl cyclohexyl(hydroxy)phenylacetate #
+oxybutynin	4-(diethylamino)but-2-ynyl 2-cyclohexyl-2-hydroxy-2-phenyl-acetate
+oxybutynin	4-diethylaminobut-2-ynyl 2-cyclohexyl-2-hydroxy-2-phenylacetate
+ticlopidine	ticlopidine
+ticlopidine	55142-85-3
+ticlopidine	Ticlopidinum
+ticlopidine	Ticlopidina
+ticlopidine	Ticlid
+ticlopidine	5-(2-Chlorobenzyl)-4,5,6,7-tetrahydrothieno[3,2-c]pyridine
+ticlopidine	Ticlopidine [INN:BAN]
+ticlopidine	Ticlopidinum [INN-Latin]
+ticlopidine	UNII-OM90ZUW7M1
+ticlopidine	Ticlopidina [INN-Spanish]
+ticlopidine	PCR 5332
+ticlopidine	C14H14ClNS
+ticlopidine	EINECS 259-498-5
+ticlopidine	Ticlopidine (INN)
+ticlopidine	BRN 1216802
+ticlopidine	CHEBI:9588
+ticlopidine	Ticlopidine HCL
+ticlopidine	Ticlopidin-Puren (TN)
+ticlopidine	AC1L1KFB
+ticlopidine	Prestwick0_000047
+ticlopidine	Prestwick1_000047
+ticlopidine	Prestwick2_000047
+ticlopidine	Prestwick3_000047
+ticlopidine	CHEMBL833
+ticlopidine	5-((2-Chlorophenyl)methyl)-4,5,6,7-tetrahydrothieno(3,2-c)pyridine
+ticlopidine	5-[(2-chlorophenyl)methyl]-4,5,6,7-tetrahydrothieno[3,2-c]pyridine
+ticlopidine	BIDD:PXR0169
+ticlopidine	BSPBio_000173
+ticlopidine	Thieno(3,2-c)pyridine, 4,5,6,7-tetrahydro-5-((2-chlorophenyl)methyl)-
+ticlopidine	SPBio_002094
+ticlopidine	MLS001201825
+ticlopidine	BPBio1_000191
+ticlopidine	STOCK5S-54105
+ticlopidine	PHWBOXQYWZNQIN-UHFFFAOYSA-N
+ticlopidine	HMS2089I18
+ticlopidine	Thieno[3,2-c]pyridine, 5-[(2-chlorophenyl)methyl]-4,5,6,7-tetrahydro-
+ticlopidine	Tiklyd
+ticlopidine	STK589340
+ticlopidine	ZINC19594599
+ticlopidine	DB00208
+ticlopidine	NCGC00016872-01
+ticlopidine	NCGC00016872-02
+ticlopidine	NCGC00016872-06
+ticlopidine	NCGC00024361-04
+ticlopidine	AC-15204
+ticlopidine	AK122369
+ticlopidine	SMR000641861
+ticlopidine	LS-152434
+ticlopidine	5-[(2-chlorophenyl)methyl]-4H,5H,6H,7H-thieno[3,2-c]pyridine
+ticlopidine	5-[(2-chlorophenyl)methyl]-6,7-dihydro-4H-thieno[3,2-c]pyridine
+ticlopidine	CAS-53885-35-1
+ticlopidine	UNM-0000345023
+ticlopidine	DSSTox_CID_3669
+ticlopidine	C07140
+ticlopidine	D08594
+ticlopidine	Thieno(3,2-c)pyridine, 5-((2-chlorophenyl)methyl)-4,5,6,7-tetrahydro-
+ticlopidine	DSSTox_RID_77136
+ticlopidine	DSSTox_GSID_23669
+ticlopidine	L001108
+ticlopidine	BRD-K00603606-003-03-4
+ticlopidine	CAS-55142-85-3
+ticlopidine	ticlop
+ticlopidine	Ticlidreg
+ticlopidine	Dom-ticlopidine
+ticlopidine	PMS-ticlopidine
+ticlopidine	Teva-ticlopidine
+ticlopidine	Ticlopidin-Puren
+ticlopidine	Mylan-ticlopidine
+ticlopidine	CID5472
+ticlopidine	Sandoz Ticlopidine
+ticlopidine	Ticlopidine-250
+ticlopidine	Ticlid Tab 250mg
+ticlopidine	Apo-ticlopidine Tablets
+ticlopidine	Ticlid 250mg Tablets
+ticlopidine	Nu-ticlopidine 250 mg
+ticlopidine	SCHEMBL4204
+ticlopidine	OM90ZUW7M1
+ticlopidine	MLS006011439
+ticlopidine	GTPL7307
+ticlopidine	Alti-ticlopidine - Tab 250mg
+ticlopidine	DTXSID5023669
+ticlopidine	BDBM85509
+ticlopidine	MolPort-002-507-849
+ticlopidine	HMS2962E14
+ticlopidine	NSC_5472
+ticlopidine	Tox21_110658
+ticlopidine	BBL028843
+ticlopidine	DAP000723
+ticlopidine	AKOS005511613
+ticlopidine	Tox21_110658_1
+ticlopidine	AN-6461
+ticlopidine	API0004414
+ticlopidine	MCULE-3971692083
+ticlopidine	NCGC00016872-03
+ticlopidine	NCGC00016872-04
+ticlopidine	NCGC00016872-05
+ticlopidine	NCGC00016872-07
+ticlopidine	NCGC00016872-09
+ticlopidine	NCGC00016872-10
+ticlopidine	NCGC00016872-12
+ticlopidine	AJ-73971
+ticlopidine	DR000790
+ticlopidine	HE351835
+ticlopidine	AX8154110
+ticlopidine	CAS_55142-85-3
+ticlopidine	KB-243325
+ticlopidine	FT-0619727
+ticlopidine	H2847
+ticlopidine	ST51015152
+ticlopidine	5-(O-Chlorobenzyl)-4,5,6,7-tetrahydrothieno-[3,2-c]pyridine
+ticlopidine	5-(2-Chlorobenzyl)-4,5,6,7-tetrahydrothieno[3,2-c]pyridine #
+ticlopidine	5-[(2-chlorophenyl)methyl]-4,5,6,7-tetrahydrothiopheno[3,2-c]pyridine
+dicycloverine	dicyclomine
+dicycloverine	Dicycloverine
+dicycloverine	Dicycloverin
+dicycloverine	Bentylol
+dicycloverine	Dicicloverina
+dicycloverine	Merbentyl
+dicycloverine	Diocyl
+dicycloverine	Wyovin
+dicycloverine	Di-syntramine
+dicycloverine	Bentyl
+dicycloverine	Dicycloverinum
+dicycloverine	Dyspas
+dicycloverine	77-19-0
+dicycloverine	Procyclomin
+dicycloverine	Bentomine
+dicycloverine	Dicyclomine Hcl
+dicycloverine	Mamiesan
+dicycloverine	Sawamin
+dicycloverine	Atumin
+dicycloverine	Dicycloverinum [INN-Latin]
+dicycloverine	Dicicloverina [INN-Spanish]
+dicycloverine	Oxityl-P
+dicycloverine	Bentyl hydrochloride
+dicycloverine	Diocyl hydrochloride
+dicycloverine	Wyovin hydrochloride
+dicycloverine	UNII-4KV4X8IF6V
+dicycloverine	Bentylol hydrochloride
+dicycloverine	Kolantyl hydrochloride
+dicycloverine	Dicymine
+dicycloverine	Formulex
+dicycloverine	Spasmoban
+dicycloverine	HSDB 3058
+dicycloverine	Dicycloverine [INN:BAN]
+dicycloverine	EINECS 201-009-4
+dicycloverine	CHEMBL1123
+dicycloverine	Dicymine (TN)
+dicycloverine	CHEBI:4514
+dicycloverine	Dicycloverin hydrochloride
+dicycloverine	Dicycloverine (INN)
+dicycloverine	Dicycloverine hydrochloride
+dicycloverine	[1,1'-Bicyclohexyl]-1-carboxylic acid, 2-(diethylamino)ethyl ester
+dicycloverine	C19H35NO2
+dicycloverine	Spectrum_000934
+dicycloverine	2-(diethylamino)ethyl 1,1'-bi(cyclohexyl)-1-carboxylate
+dicycloverine	AC1Q2ZDW
+dicycloverine	AC1Q2ZDX
+dicycloverine	Prestwick0_000048
+dicycloverine	Prestwick1_000048
+dicycloverine	Prestwick2_000048
+dicycloverine	Prestwick3_000048
+dicycloverine	Spectrum2_000590
+dicycloverine	Spectrum3_000388
+dicycloverine	Spectrum4_000509
+dicycloverine	Spectrum5_000873
+dicycloverine	Lopac-D-7909
+dicycloverine	AC1L1F1K
+dicycloverine	(1,1'-Bicyclohexyl)-1-carboxylic acid, 2-(diethylamino)ethyl ester
+dicycloverine	Bicyclohexyl-1-carbonsaeure-2'diethylaminoethylester
+dicycloverine	Lopac0_000432
+dicycloverine	BSPBio_000175
+dicycloverine	BSPBio_002175
+dicycloverine	KBioGR_001057
+dicycloverine	KBioSS_001414
+dicycloverine	67-92-5 (hydrochloride)
+dicycloverine	DivK1c_000162
+dicycloverine	SPBio_000440
+dicycloverine	SPBio_002096
+dicycloverine	BPBio1_000193
+dicycloverine	2-(diethylamino)ethyl 1-cyclohexylcyclohexane-1-carboxylate
+dicycloverine	(Bicyclohexyl)-1-carboxylic acid, 2-(diethylamino)ethyl ester
+dicycloverine	CURUTKGFNZGFSE-UHFFFAOYSA-
+dicycloverine	KBio1_000162
+dicycloverine	KBio2_001414
+dicycloverine	KBio2_003982
+dicycloverine	KBio2_006550
+dicycloverine	KBio3_001395
+dicycloverine	Diethylaminocarbethoxybicyclohexyl hydrochloride
+dicycloverine	NINDS_000162
+dicycloverine	NSC404381
+dicycloverine	2-(diethylamino)ethyl 1-cyclohexylcyclohexanecarboxylate
+dicycloverine	2-diethylaminoethyl 1-cyclohexylcyclohexane-1-carboxylate
+dicycloverine	DB00804
+dicycloverine	CAS-67-92-5
+dicycloverine	IDI1_000162
+dicycloverine	NCGC00015368-01
+dicycloverine	NCGC00015368-02
+dicycloverine	NCGC00015368-06
+dicycloverine	NCGC00015368-08
+dicycloverine	NCGC00016300-01
+dicycloverine	NCGC00024386-03
+dicycloverine	LS-56640
+dicycloverine	T472
+dicycloverine	LS-177325
+dicycloverine	AB00053456
+dicycloverine	DSSTox_CID_2926
+dicycloverine	WLN: L6TJ A- AL6TJ AVO2N2&2 &GH
+dicycloverine	C06951
+dicycloverine	D07820
+dicycloverine	DSSTox_RID_76790
+dicycloverine	DSSTox_GSID_22926
+dicycloverine	L000680
+dicycloverine	104959-55-9
+dicycloverine	BRD-K68507560-003-05-5
+dicycloverine	Bicyclohexyl-1-carboxylic acid 2-diethylamino-ethyl ester
+dicycloverine	.beta.-Diethylaminoethyl-1-cyclohexylhexahydrobenzoate hydrochloride
+dicycloverine	2-diethylaminoethyl 1-cyclohexylcyclohexane-1-carboxylate hydrochloride
+dicycloverine	.beta.-Diethylaminoethyl 1-cyclohexylcyclohexanecarboxylate hydrochloride
+dicycloverine	[Bicyclohexyl]-1-carboxylic acid, 2-(diethylamino)ethyl ester hydrochloride
+dicycloverine	Di-Spaz
+dicycloverine	CAS-77-19-0
+dicycloverine	856995-49-8
+dicycloverine	InChI=1/C19H35NO2/c1-3-20(4-2)15-16-22-18(21)19(13-9-6-10-14-19)17-11-7-5-8-12-17/h17H,3-16H2,1-2H3
+dicycloverine	Dicyclomine [INN]
+dicycloverine	Byclominereg
+dicycloverine	Bentylreg
+dicycloverine	Byclomine
+dicycloverine	Dilomine
+dicycloverine	[Bicyclohexyl]-1-carboxylic acid, 2-(diethylamino)ethyl ester
+dicycloverine	Riva-dicyclomine
+dicycloverine	NIOSH/GU8471000
+dicycloverine	CID3042
+dicycloverine	Formulex Cap 10mg
+dicycloverine	Protylol Cap 10mg
+dicycloverine	Protylol Tab 20mg
+dicycloverine	Viscerol Cap 10mg
+dicycloverine	Jamp-dicyclomine HCl
+dicycloverine	Bentylol Dospan 30mg
+dicycloverine	Bentylol Tablet 10mg
+dicycloverine	Bentylol Tablet 20mg
+dicycloverine	Dicyclomine Cap 10mg
+dicycloverine	Bentylol Inj 10mg/ml
+dicycloverine	J.L. 998
+dicycloverine	(BICYCLOHEXYL)-1-CARBOXYLIC ACID, 2-(DIETHYLAMINO)ETHYL ESTER, HYDROCHLORIDE
+dicycloverine	SCHEMBL3317
+dicycloverine	4KV4X8IF6V
+dicycloverine	Dicyclomine Hydrochloride USP
+dicycloverine	GTPL355
+dicycloverine	DTXSID1022926
+dicycloverine	CHEBI:265774
+dicycloverine	CURUTKGFNZGFSE-UHFFFAOYSA-N
+dicycloverine	MolPort-001-832-617
+dicycloverine	HMS3604H12
+dicycloverine	1-Cyclohexylcyclohexanecarboxylic acid 2-(diethylamino)ethyl ester
+dicycloverine	ZINC1530613
+dicycloverine	Tox21_113571
+dicycloverine	BDBM50010101
+dicycloverine	Cyclohexanecarboxylic acid, 1-cyclohexyl-, 2-(diethylamino)ethyl ester
+dicycloverine	DAP001118
+dicycloverine	STL356799
+dicycloverine	[Bicyclohexyl]-1-carboxylic acid, 2- (diethylamino)ethyl ester hydrochloride
+dicycloverine	AKOS022107181
+dicycloverine	Tox21_113571_1
+dicycloverine	CCG-204524
+dicycloverine	Dicyclomine Hydrochloride Injection USP
+dicycloverine	MCULE-9110194493
+dicycloverine	NSC-404381
+dicycloverine	NCGC00015368-03
+dicycloverine	NCGC00015368-04
+dicycloverine	NCGC00015368-05
+dicycloverine	NCGC00015368-07
+dicycloverine	NCGC00015368-11
+dicycloverine	NCGC00024386-04
+dicycloverine	OR066438
+dicycloverine	OR339815
+dicycloverine	GU8471000
+dicycloverine	ST45026134
+dicycloverine	(Bicyclohexyl)-1-carboxylic acid, hydrochloride
+dicycloverine	[1, 2-(diethylamino)ethyl ester, hydrochloride
+dicycloverine	AB00053456_14
+dicycloverine	AB00053456_15
+dicycloverine	2-diethylaminoethyl 1-cyclohexylcyclohexanecarboxylate
+dicycloverine	3B1-008011
+econazole	econazole
+econazole	Ecostatin
+econazole	27220-47-9
+econazole	Pevaryl
+econazole	Gyno-pevaryl
+econazole	Econazolum
+econazole	Palavale
+econazole	Econazol
+econazole	Spectazole
+econazole	Ifenec
+econazole	(+-)-Econazole
+econazole	Ecostatin cream
+econazole	Spectazole cream
+econazole	Gyno-Pevaryl 150
+econazole	Spectrum_001223
+econazole	Ecostatin Vaginal Ovules
+econazole	Econazole (USAN/INN)
+econazole	Prestwick0_000304
+econazole	Prestwick1_000304
+econazole	Prestwick2_000304
+econazole	Prestwick3_000304
+econazole	Spectrum2_001439
+econazole	Spectrum3_001467
+econazole	Spectrum4_000446
+econazole	Spectrum5_001033
+econazole	NSC187789
+econazole	CHEMBL808
+econazole	NSC 187789
+econazole	AC1L1FE8
+econazole	AC1Q3JJ8
+econazole	1-{2-[(4-chlorophenyl)methoxy]-2-(2,4-dichlorophenyl)ethyl}-1H-imidazole
+econazole	BSPBio_000268
+econazole	BSPBio_002993
+econazole	KBioGR_000832
+econazole	KBioSS_001703
+econazole	SQ 13050
+econazole	DivK1c_000113
+econazole	SPBio_001578
+econazole	SPBio_002487
+econazole	BPBio1_000296
+econazole	CHEBI:82873
+econazole	KBio1_000113
+econazole	KBio2_001703
+econazole	KBio2_004271
+econazole	KBio2_006839
+econazole	KBio3_002493
+econazole	NINDS_000113
+econazole	LEZWWPYKPKIXLL-UHFFFAOYSA-N
+econazole	1-[2-[(4-chlorophenyl)methoxy]-2-(2,4-dichlorophenyl)ethyl]imidazole
+econazole	1-[2-[(4-Chlorophenyl)methoxy]-2-(2,4-dichlorophenyl)ethyl]-1H-imidazole
+econazole	Ecoza
+econazole	NSC243115
+econazole	DB01127
+econazole	IDI1_000113
+econazole	AK174005
+econazole	NCI60_001564
+econazole	NCI60_001947
+econazole	LS-194478
+econazole	AB00053611
+econazole	1-{2-[(4-chlorobenzyl)oxy]-2-(2,4-dichlorophenyl)ethyl}-1H-imidazole
+econazole	1H-Imidazole, 1-(2-((4-chlorophenyl)methoxy)-2-(2,4-dichlorophenyl)ethyl)-
+econazole	C08068
+econazole	D03936
+econazole	R-14827
+econazole	68797-30-8
+econazole	BRD-A51820102-008-05-7
+econazole	I01-3539
+econazole	W-107123
+econazole	1-[2,4-Dichloro-.beta.-[(p-chlorobenzyl)oxy]phenethyl]imidazole
+econazole	1-{2-(4-chlorobenzyloxy)-2-(2,4-dichlorophenyl)ethyl}-1H-imidazole
+econazole	Imidazole, 1-[2,4-dichloro-.beta.-[(p-chlorobenzyl)oxy]phenethyl]-
+econazole	1-(2-((4-Chlorobenzyl)oxy)-2-(2,4-dichlorophenyl)ethyl)-1H-imidazole
+econazole	1H-Imidazole, 1-[2-[(4-chlorophenyl)methoxy]-2-(2,4-dichlorophenyl)ethyl]-
+econazole	AC-1113
+econazole	NCGC00018258-03
+econazole	micofugal
+econazole	Spectazolereg
+econazole	Econazole [USAN:INN:BAN]
+econazole	1-(2,4-Dichloro-.beta.-((p-chlorobenzyl)oxy)phenethyl)imidazole
+econazole	1-[2-(4-Chlorobenzyloxy)-2-(2,4-dichlorophenyl)ethyl]-1H-imidazole
+econazole	Imidazole, 1-(2,4-dichloro-.beta.-((p-chlorobenzyl)oxy)phenethyl)-
+econazole	CID3198
+econazole	Ecostatin Cream 1%
+econazole	(.+/-.)-Econazole
+econazole	SCHEMBL34498
+econazole	cid_68589
+econazole	CHEBI:4754
+econazole	Ecostatin Vaginal Ovule 150mg
+econazole	GTPL2446
+econazole	DTXSID2029872
+econazole	BDBM31773
+econazole	CTK5C8462
+econazole	68797-31-9 (nitrate)
+econazole	MolPort-005-933-574
+econazole	HY-B0885
+econazole	DAP001269
+econazole	GA7153
+econazole	MFCD00800993
+econazole	STL483402
+econazole	AKOS015889868
+econazole	1H-Imidazole,4-dichlorophenyl)ethyl]-
+econazole	API0002518
+econazole	NSC-187789
+econazole	(1)-1-(2-((4-Chlorophenyl)methoxy)-2-(2,4-dichlorophenyl)ethyl)-1H-imidazole
+econazole	NCGC00018258-02
+econazole	NCGC00018258-05
+econazole	NCGC00018258-06
+econazole	NCGC00018258-07
+econazole	NCGC00018258-09
+econazole	CC-27436
+econazole	DR002166
+econazole	HE330672
+econazole	M369
+econazole	MFCD00058160 (.HNO3)
+econazole	SC-16174
+econazole	AB0015177
+econazole	AB1009387
+econazole	FT-0630530
+econazole	J10460
+econazole	AB00053611-20
+econazole	AB00053611_21
+econazole	AB00053611_22
+econazole	68797-31-9 (.HNO3)
+econazole	AA-504/31991001
+econazole	C-21352
+econazole	3B1-003788
+econazole	1-[2,4-Dichloro-b-[(p-chlorobenzyl)oxy]phenethyl]imidazole
+econazole	Imidazole, 1,2,4-dichloro-beta-(p-chlorobenzyl)oxyphenethyl-
+econazole	Imidazole,4-dichloro-.beta.-[(p-chlorobenzyl)oxy]phenethyl]-
+econazole	1-{2-(4-chlorobenzyloxy)-2-(2,4-dichlorophenyl)ethyl}imidazole
+econazole	1-[2-(4-chloro-benzyloxy)-2-(2,4-dichloro-phenyl)-ethyl]-1H-imidazole
+econazole	1-[2-[(4-Chlorophenyl)methoxy]-2-(2,4-dichlorophenyl)ethyl]-1Himidazole
+econazole	4-Chlorobenzyl 1-(2,4-dichlorophenyl)-2-(1H-imidazol-1-yl)ethyl ether
+econazole	(+)-1-[2-[(4-Chlorophenyl)methoxy]-2-(2,4-dichlorophenyl)ethyl]-1H-imidazole
+econazole	(?)-1-[2-[(4-Chlorophenyl)methoxy]-2-(2,4-dichlorophenyl)ethyl]-1H-imidazole
+econazole	1-[(2RS)-2-[(4-Chlorobenzyl)oxy]-2-(2,4-dichlorophenyl)ethyl]-1H-imidazole
+nifuroxazide	Nifuroxazide
+nifuroxazide	965-52-6
+nifuroxazide	Nifuroxazid
+nifuroxazide	Dicoferin
+nifuroxazide	Diarlidan
+nifuroxazide	Nifuroxazida
+nifuroxazide	Nifuroxazidum
+nifuroxazide	Ercefurol
+nifuroxazide	Ercefuryl
+nifuroxazide	UNII-PM5LI0P38J
+nifuroxazide	Nifuroxazidum [INN-Latin]
+nifuroxazide	Nifuroxazida [INN-Spanish]
+nifuroxazide	CCRIS 5490
+nifuroxazide	RC 27109
+nifuroxazide	R.C. 27-109
+nifuroxazide	EINECS 213-522-0
+nifuroxazide	BRN 1352180
+nifuroxazide	p-Hydroxybenzoic acid (5-nitrofurfurylidene)hydrazide
+nifuroxazide	MLS000069620
+nifuroxazide	C12H9N3O5
+nifuroxazide	4-Hydroxy-N'-(5-nitrofurfuryliden)benzhydrazid
+nifuroxazide	(Nitro-5' furfurylidene-2') hydroxy-4 benzhydrazide
+nifuroxazide	RC-27109
+nifuroxazide	SMR000058185
+nifuroxazide	(Nitro-5' furfurylidene-2') hydroxy-4 benzhydrazide [French]
+nifuroxazide	Benzoic acid, 4-hydroxy-, ((5-nitro-2-furanyl)methylene)hydrazide
+nifuroxazide	BENZOIC ACID, p-HYDROXY-, (5-NITROFURFURYLIDENE)HYDRAZIDE
+nifuroxazide	5-Nitro-2-furaldehyde p-hydroxybenzoylhydrazone
+nifuroxazide	p-Hydroxybenzoic acid 5-nitrofurfurylidene hydrazide
+nifuroxazide	4-hydroxy-N-[(E)-(5-nitro-2-furyl)methyleneamino]benzamide
+nifuroxazide	Benzoic acid, 4-hydroxy-, [(5-nitro-2-furanyl)methylene]hydrazide
+nifuroxazide	Benzoic acid, 4-hydroxy-, 2-[(5-nitro-2-furanyl)methylene]hydrazide
+nifuroxazide	Nifuroxazide [INN:DCF]
+nifuroxazide	pentofuryl
+nifuroxazide	Nifuroxazide [INN:BAN:DCF]
+nifuroxazide	Prestwick_874
+nifuroxazide	Nifuroxazide (INN)
+nifuroxazide	Opera_ID_40
+nifuroxazide	AC1NSQ2Z
+nifuroxazide	Prestwick2_000555
+nifuroxazide	Prestwick3_000555
+nifuroxazide	PM5LI0P38J
+nifuroxazide	BSPBio_000629
+nifuroxazide	Bio-0498
+nifuroxazide	SCHEMBL542542
+nifuroxazide	SCHEMBL543480
+nifuroxazide	ARONIS016368
+nifuroxazide	BPBio1_000693
+nifuroxazide	CHEMBL244888
+nifuroxazide	SCHEMBL14608895
+nifuroxazide	CHEBI:94556
+nifuroxazide	CHEBI:135136
+nifuroxazide	MolPort-000-565-540
+nifuroxazide	MolPort-039-344-851
+nifuroxazide	YCWSUKQGVSGXJO-NTUHNPAUSA-N
+nifuroxazide	HMS1569P11
+nifuroxazide	HMS2096P11
+nifuroxazide	Pharmakon1600-01505788
+nifuroxazide	HY-B1436
+nifuroxazide	ZINC7997719
+nifuroxazide	BDBM50396177
+nifuroxazide	NSC759261
+nifuroxazide	SBB067194
+nifuroxazide	STK091243
+nifuroxazide	STL454990
+nifuroxazide	AKOS000483758
+nifuroxazide	AC-8713
+nifuroxazide	AN-7764
+nifuroxazide	CCG-213989
+nifuroxazide	CS-4918
+nifuroxazide	NSC-759261
+nifuroxazide	AK163554
+nifuroxazide	H868
+nifuroxazide	LS-37645
+nifuroxazide	SC-16466
+nifuroxazide	BIM-0014420.P001
+nifuroxazide	TX-017860
+nifuroxazide	AB00513861
+nifuroxazide	FT-0603534
+nifuroxazide	SJ000287313
+nifuroxazide	D07111
+nifuroxazide	AB00513861_02
+nifuroxazide	AB00513861_03
+nifuroxazide	Nifuroxazide, VETRANAL(TM), analytical standard
+nifuroxazide	A845610
+nifuroxazide	4-Hydroxy-N'-(5-nitrofurfurylidene)-benzo-hydrazide
+nifuroxazide	T6759725
+nifuroxazide	W-100139
+nifuroxazide	BRD-K68188368-001-03-7
+nifuroxazide	p-Hydroxybenzoic acid (5-nitrofurfurylidene) hydrazide
+nifuroxazide	4-hydroxy-benzoicaci((5-nitro-2-furanyl)methylene)hydrazide
+nifuroxazide	S4182,965-52-6
+nifuroxazide	4-hydroxy-N'-[(5-nitrofuran-2-yl)methylidene]benzohydrazide
+nifuroxazide	Nifuroxazide, European Pharmacopoeia (EP) Reference Standard
+nifuroxazide	4-hydroxy-N'-[(E)-(5-nitrofuran-2-yl)methylidene]benzohydrazide
+nifuroxazide	4-hydroxy-N-[(E)-(5-nitro-2-furanyl)methylideneamino]benzamide
+nifuroxazide	4-hydroxy-N-[(E)-(5-nitrofuran-2-yl)methylideneamino]benzamide
+nifuroxazide	N-[(E)-(5-nitrofuran-2-yl)methylideneamino]-4-oxidanyl-benzamide
+nifuroxazide	4-hydroxy-N-[(E)-(5-nitrofuran-2-yl)methylidene]benzenecarbohydrazonic acid
+nifuroxazide	(nitro-5 inverted exclamation mark furfurylidene-2 inverted exclamation mark )hydroxy-4benzhydrazide
+bepridil	bepridil
+bepridil	Bepadin
+bepridil	64706-54-3
+bepridil	Vascor
+bepridil	Cordium
+bepridil	Org 5730
+bepridil	CERM 1978
+bepridil	BEPRIDIL HYDROCHLORIDE
+bepridil	Bepridil (INN)
+bepridil	Bepadin (TN)
+bepridil	CHEBI:3061
+bepridil	Spectrum_001745
+bepridil	AC1L1DHI
+bepridil	N-Benzyl-N-(3-isobutoxy-2-(pyrrolidin-1-yl)propyl)aniline
+bepridil	Prestwick0_000368
+bepridil	Prestwick1_000368
+bepridil	Prestwick2_000368
+bepridil	Prestwick3_000368
+bepridil	Spectrum2_000901
+bepridil	Spectrum3_000747
+bepridil	Spectrum4_000797
+bepridil	Spectrum5_000978
+bepridil	CHEMBL1008
+bepridil	Lopac0_000222
+bepridil	BSPBio_000495
+bepridil	BSPBio_001301
+bepridil	BSPBio_002334
+bepridil	KBioGR_000021
+bepridil	KBioGR_001274
+bepridil	KBioSS_000021
+bepridil	KBioSS_002225
+bepridil	DivK1c_000110
+bepridil	SPBio_000742
+bepridil	SPBio_002416
+bepridil	Ambap64706-54-3
+bepridil	BPBio1_000545
+bepridil	Bepridil Monohydrochloride
+bepridil	BCBcMAP01_000130
+bepridil	KBio1_000110
+bepridil	KBio2_000021
+bepridil	KBio2_002225
+bepridil	KBio2_002589
+bepridil	KBio2_004793
+bepridil	KBio2_005157
+bepridil	KBio2_007361
+bepridil	KBio3_000041
+bepridil	KBio3_000042
+bepridil	KBio3_001554
+bepridil	NINDS_000110
+bepridil	Bio1_000388
+bepridil	Bio1_000877
+bepridil	Bio1_001366
+bepridil	Bio2_000021
+bepridil	Bio2_000501
+bepridil	HMS1361B03
+bepridil	HMS1791B03
+bepridil	HMS1989B03
+bepridil	HMS2089C05
+bepridil	N-benzyl-N-[3-(2-methylpropoxy)-2-(pyrrolidin-1-yl)propyl]aniline
+bepridil	beta-((2-Methylpropoxy)methyl)-N-phenyl-N-(phenylmethyl)-1-pyrrolidineethanamine
+bepridil	HSCI1_000377
+bepridil	1-Pyrrolidineethanamine, beta-((2-methylpropoxy)methyl)-N-phenyl-N-(phenylmethyl)-
+bepridil	68099-86-5 (mono-hydrochloride)
+bepridil	DB01244
+bepridil	Bepridil HCl
+bepridil	IDI1_000110
+bepridil	IDI1_033771
+bepridil	NCGC00015155-03
+bepridil	NCGC00015155-07
+bepridil	NCGC00162097-01
+bepridil	NCGC00162097-02
+bepridil	NCGC00162097-03
+bepridil	NCGC00162097-04
+bepridil	AC-16059
+bepridil	LS-137756
+bepridil	N-benzyl-N-[3-(2-methylpropoxy)-2-pyrrolidin-1-ylpropyl]aniline
+bepridil	AB00053643
+bepridil	DSSTox_CID_2663
+bepridil	C06847
+bepridil	D07520
+bepridil	DSSTox_RID_76679
+bepridil	74764-40-2 (mono-hydrochloride, mono-hydrate)
+bepridil	DSSTox_GSID_22663
+bepridil	BRD-A91008255-001-02-8
+bepridil	Bepridil hydrochloride hydrate
+bepridil	N-{3-[(2-methylpropyl)oxy]-2-pyrrolidin-1-ylpropyl}-N-(phenylmethyl)aniline
+bepridil	N-Benzyl-N-[3-(2-methylpropoxy)-2-pyrrolidin-1-yl-propyl]aniline hydrochloride
+bepridil	C24H34N2O
+bepridil	CAS-64706-54-3
+bepridil	Bepridil [INN:BAN]
+bepridil	bepricol
+bepridil	Vascorreg
+bepridil	dl-Bepridil
+bepridil	CID2351
+bepridil	(+/-)-Bepridil
+bepridil	nchembio873-comp28
+bepridil	SCHEMBL34412
+bepridil	cid_50088
+bepridil	GTPL2337
+bepridil	DTXSID3022663
+bepridil	BDBM78577
+bepridil	MolPort-005-935-595
+bepridil	UIEATEWHFDRYRU-UHFFFAOYSA-N
+bepridil	Tox21 110089
+bepridil	Tox21_110089
+bepridil	bepridil monohydrochloride monohydrate
+bepridil	DAP000525
+bepridil	AKOS015962267
+bepridil	Tox21_110089_1
+bepridil	API0009195
+bepridil	CCG-204317
+bepridil	VA10387
+bepridil	NCGC00015155-02
+bepridil	NCGC00015155-04
+bepridil	NCGC00015155-05
+bepridil	NCGC00015155-06
+bepridil	NCGC00015155-08
+bepridil	NCGC00015155-11
+bepridil	NCGC00015155-13
+bepridil	AK129727
+bepridil	K042
+bepridil	Bepridil hydrochloride monohydrate/bepridil
+bepridil	AX8116381
+bepridil	FT-0630749
+bepridil	20515-EP2272841A1
+bepridil	20515-EP2275420A1
+bepridil	20515-EP2280008A2
+bepridil	20515-EP2298764A1
+bepridil	20515-EP2298765A1
+bepridil	20515-EP2298779A1
+bepridil	20515-EP2301923A1
+bepridil	20515-EP2301931A1
+bepridil	20515-EP2301936A1
+bepridil	20515-EP2314585A1
+bepridil	AB00053643-14
+bepridil	AB00053643_15
+bepridil	C-22074
+bepridil	N-benzyl-N-(3-isobutoxy-2-pyrrolidin-1-yl-propyl)aniline
+bepridil	benzyl-(3-isobutoxy-2-pyrrolidino-propyl)-phenyl-amine;hydrochloride
+bepridil	(betaS)-beta-(Isobutoxymethyl)-N-phenyl-N-benzyl-1-pyrrolidineethanamine
+bepridil	N-[3-(2-methylpropoxy)-2-pyrrolidin-1-ylpropyl]-N-(phenylmethyl)aniline
+bepridil	N-[3-(2-methylpropoxy)-2-(1-pyrrolidinyl)propyl]-N-(phenylmethyl)aniline;hydrochloride
+bepridil	N-[3-(2-methylpropoxy)-2-pyrrolidin-1-yl-propyl]-N-(phenylmethyl)aniline;hydrochloride
+bepridil	N-benzyl-N-[3-(2-methylpropoxy)-2-pyrrolidin-1-ylpropyl]aniline;hydrochloride
+bepridil	1-Pyrrolidineethanamine, .beta.-[(2-methylpropoxy)methyl]-N-phenyl-N-(phenylmethyl)-, monohydrochloride
+miconazole	miconazole
+miconazole	22916-47-8
+miconazole	Monistat
+miconazole	Monistat IV
+miconazole	Daktarin IV
+miconazole	Miconazolo
+miconazole	Miconazolum
+miconazole	Miconazol
+miconazole	Minostate
+miconazole	Monistat-Derm
+miconazole	Dactarin
+miconazole	Micozole
+miconazole	Vusion
+miconazole	Zimycan
+miconazole	Femizol-M
+miconazole	Miconazole 3
+miconazole	Miconazolum [INN-Latin]
+miconazole	Miconazolo [DCIT]
+miconazole	Daktarin
+miconazole	Oravig
+miconazole	1-[2-(2,4-Dichlorophenyl)-2-[(2,4-dichlorophenyl)methoxy]ethyl]-1H-imidazole
+miconazole	Florid(nitrate)
+miconazole	MJR 1762
+miconazole	Miconazole 7
+miconazole	Miconazole-7
+miconazole	Miconasil Nitrate
+miconazole	Monazole 7
+miconazole	Miconazol [INN-Spanish]
+miconazole	Brentan
+miconazole	Monistat 1 Combination Pack
+miconazole	CCRIS 7924
+miconazole	NSC 170986
+miconazole	CHEMBL91
+miconazole	R 18134
+miconazole	Aflorix(nitrate)
+miconazole	Monistat 3 Vaginal Ovules
+miconazole	UNII-7NNO0D7S5M
+miconazole	Albistat(nitrate)
+miconazole	Andergin(nitrate)
+miconazole	Conofite(nitrate)
+miconazole	EINECS 245-324-5
+miconazole	Monista (nitrate)
+miconazole	Monistat 3 Combination Pack
+miconazole	Monistat 5 Tampon
+miconazole	Micantin (nitrate)
+miconazole	Monistat (TN)
+miconazole	C18H14Cl4N2O
+miconazole	Prestwick_335
+miconazole	Miconazole 3 Combination Pack
+miconazole	Miconazole 7 Combination Pack
+miconazole	Novo-Miconazole Vaginal Ovules
+miconazole	BRN 0965511
+miconazole	Monistat Dual- PAK
+miconazole	Gyno-Daktar(nitrate)
+miconazole	Lotrimin AF(nitrate)
+miconazole	Monistat 3 Dual-Pak
+miconazole	Monistat 7 Dual-Pak
+miconazole	Epi-Monistat(nitrate)
+miconazole	Monistat 7 Vaginal Suppositories
+miconazole	Monistat 3
+miconazole	Monistat 5
+miconazole	Monistat 7
+miconazole	Spectrum_000965
+miconazole	Miconazole [USAN:BAN:INN:JAN]
+miconazole	1H-Imidazole, 1-(2-(2,4-dichlorophenyl)-2-((2,4-dichlorophenyl)methoxy)ethyl)-
+miconazole	Prestwick0_000067
+miconazole	Prestwick1_000067
+miconazole	Prestwick2_000067
+miconazole	Prestwick3_000067
+miconazole	Spectrum2_001048
+miconazole	Spectrum3_000507
+miconazole	Spectrum4_000061
+miconazole	Spectrum5_001297
+miconazole	1-(2,4-Dichloro-beta-((2,4-dichlorobenzyl)oxy)phenethyl)imidazole
+miconazole	AC1L1HM1
+miconazole	Oprea1_091955
+miconazole	1-(2-((2,4-Dichlorobenzyl)oxy)-2-(2,4-dichlorophenyl)ethyl)-1H-imidazole
+miconazole	BSPBio_000253
+miconazole	BSPBio_002033
+miconazole	KBioGR_000581
+miconazole	KBioSS_001445
+miconazole	Miconazole nitrate salt
+miconazole	DivK1c_000156
+miconazole	SPBio_000976
+miconazole	SPBio_002174
+miconazole	MLS002222203
+miconazole	BPBio1_000279
+miconazole	STOCK1S-93556
+miconazole	CHEBI:82892
+miconazole	KBio1_000156
+miconazole	KBio2_001445
+miconazole	KBio2_004013
+miconazole	KBio2_006581
+miconazole	KBio3_001533
+miconazole	NINDS_000156
+miconazole	BYBLEWFAAKGYCD-UHFFFAOYSA-N
+miconazole	M-zole 3 Combination Pack
+miconazole	HMS1568M15
+miconazole	HMS2090B21
+miconazole	Imidazole, 1-(2,4-dichloro-beta-((2,4-dichlorobenzyl)oxy)phenethyl)-
+miconazole	R-14,889
+miconazole	1-[2-(2,4-dichlorophenyl)-2-[(2,4-dichlorophenyl)methoxy]ethyl]imidazole
+miconazole	1H-Imidazole, 1-[2-(2,4-dichlorophenyl)-2-[(2,4-dichlorophenyl)methoxy]ethyl]-
+miconazole	MFCD00216019
+miconazole	NSC169434
+miconazole	NSC170986
+miconazole	STK834405
+miconazole	AKOS001574474
+miconazole	DB01110
+miconazole	MCZ
+miconazole	IDI1_000156
+miconazole	Miconazole 1
+miconazole	Zeasorb-AF
+miconazole	NCGC00016770-01
+miconazole	22832-87-7 (NITRATE)
+miconazole	AK-34234
+miconazole	LS-78378
+miconazole	NCI60_001353
+miconazole	NCI60_001380
+miconazole	SMR001307249
+miconazole	AB00053500
+miconazole	1-(2,4-dichloro-beta-((2,4-dichlorobenzyl)oxy)phenethyl) imidazole
+miconazole	imidazole, 1-(2,4-dichloro-beta-((2,4-dichlorobenzyl)oxy) phenethyl)-
+miconazole	(+-)-1-(2,4-Dichloro-beta-((2,4-dichlorobenzyl)oxy)phenethyl)imidazole
+miconazole	D00416
+miconazole	Imidazole, 1-(2-(2,4-dichlorophenyl)-2-((2,4-dichlorophenyl)methoxy)ethyl)-
+miconazole	1-[2-(2,4-dichlorophenyl)-2-{[(2,4-dichlorophenyl)methyl]oxy}ethyl]-1H-imidazole
+miconazole	1H-imidazole, 1-(2-(2,4-dichlorophenyl)-2-((2,4-dichlorophenyl) methoxy)ethyl)-
+miconazole	1H-Imidazole, 1-2-((2,4-dichlorophenyl)-2-((2,4-dichlorophenyl))methoxy)ethyl)-, (+-)-
+miconazole	imidazole, 1-(2-(2,4-dichlorophenyl)-2-((2,4-dichlorophenyl) methoxy)ethyl)- (9CI)
+miconazole	Imidazole, 1-(2-(2,4-dichlorophenyl)-2-((2,4-dichlorophenyl)methoxy)ethyl)- (9CI)
+miconazole	BRD-A82396632-001-03-0
+miconazole	BRD-A82396632-008-02-7
+miconazole	I14-14342
+miconazole	1-[2,4-Dichloro- beta-([2,4-dichloro- benzyl]oxy)phenethyl]imidazole
+miconazole	1-[2,4-Dichloro-beta-([2,4-dichlorobenzyl]oxy)-phenethyl] imidazole
+miconazole	1-(2,4-dichlorophenyl)-1-[(2,4-dichlorophenyl)methoxy]-2-imidazolylethane
+miconazole	1-[2-(2,4-dichlorobenzyloxy)-2-(2,4-dichlorophenyl)ethyl]-1H-imidazole
+miconazole	1-{2-[(2,4-dichlorobenzyl)oxy]-2-(2,4-dichlorophenyl)ethyl}-1H-imidazole
+miconazole	Imidazole, 1-[2,4-dichloro-.beta.-[(2,4-dichlorobenzyl)oxy]phenethyl]-
+miconazole	(+/-)-Miconazole nitrate salt
+miconazole	75319-47-0
+miconazole	azolen
+miconazole	Dermagungal
+miconazole	Monistatreg
+miconazole	Conazol
+miconazole	Decocort
+miconazole	Miconazex
+miconazole	Miconole
+miconazole	Baza Antifungal
+miconazole	Green Tetterine
+miconazole	Miconazole Base
+miconazole	White Tetterine
+miconazole	1-(2,4-Dichloro-beta-[(2,4-dichlorobenzyl)oxy]phenethyl)imidazole
+miconazole	Elta Trivase
+miconazole	R-14889
+miconazole	Bf-micozo
+miconazole	Fungoid Tincture
+miconazole	Macerrx Web
+miconazole	Selan Antifungal
+miconazole	1-[2-[(2,4-Dichlorobenzyl)oxy]-2-(2,4-dichlorophenyl)ethyl]-1H-imidazole
+miconazole	Imidazole, 1-(2,4-dichloro-.beta.-((2,4-dichlorobenzyl)oxy)phenethyl)-
+miconazole	Clearly Confident
+miconazole	Remedy Antifungal
+miconazole	Triple Paste-AF
+miconazole	Vagistat-3
+miconazole	CID4189
+miconazole	Kendall Antifungal
+miconazole	Lagicam Antifungal
+miconazole	Miconazole [USP:INN:BAN:JAN]
+miconazole	Nail Md
+miconazole	7 Day Vaginal
+miconazole	Miconazole 3 Day
+miconazole	Ting Spray Powder
+miconazole	Micro-guard (af)
+miconazole	Miconazole, Monistat, Daktarin IV; MJR 1762; Monistat IV; NSC 170986; R 18134; Zimybase
+miconazole	Athletes Foot Spray
+miconazole	Monistat Derm Cream
+miconazole	Tineacide Antifungal
+miconazole	Monistat iv (TN)
+miconazole	Carrington Antifungal
+miconazole	Equate Miconazole 1
+miconazole	Leader Miconazole 1
+miconazole	Meijer Miconazole 3
+miconazole	Rexall Miconazole 3
+miconazole	Dg Health Miconazole
+miconazole	Careone Miconazole 3
+miconazole	Sunmark Miconazole 3
+miconazole	Sunmark Miconazole 7
+miconazole	Topcare Miconazole 1
+miconazole	Topcare Miconazole 7
+miconazole	Aloe Vesta Antifungal
+miconazole	Critic Aid Clear AF
+miconazole	Thera Antifungal Body
+miconazole	Up and Up Miconazole
+miconazole	S2536_Selleck
+miconazole	3m Cavilon Antifungal
+miconazole	Equaline Miconazole 1
+miconazole	Equaline Miconazole 3
+miconazole	Equaline Miconazole 7
+miconazole	Soothe and Cool Treat
+miconazole	Lotrimin AF Antifungal
+miconazole	Micatin Cream - 2%
+miconazole	Care One Miconazole 1
+miconazole	Care One Miconazole 3
+miconazole	Care One Miconazole 7
+miconazole	Dg Health Miconazole 3
+miconazole	Good Sense Miconazole 1
+miconazole	Good Sense Miconazole 3
+miconazole	Good Sense Miconazole 7
+miconazole	Up and Up Miconazole 1
+miconazole	Up and Up Miconazole 3
+miconazole	Up and Up Miconazole 7
+miconazole	Femmesil Maximum Strength
+miconazole	Touchless Care Antifungal
+miconazole	Monistat 1 Vaginal Ovule
+miconazole	Monistat 3 Vaginal Cream
+miconazole	Monistat 7 Vaginal Cream
+miconazole	Smart Sense Miconazole 1
+miconazole	DSSTox_CID_3319
+miconazole	bmse000924
+miconazole	cid_4189
+miconazole	Harris Teeter Miconazole 3
+miconazole	Harris Teeter Miconazole 7
+miconazole	Miconazole 1 Feminine Care
+miconazole	Premier Value Miconazole 3
+miconazole	SCHEMBL2866
+miconazole	Aloe Vesta Clear Antifungal
+miconazole	Secura Antifungal Greaseless
+miconazole	DSSTox_RID_76975
+miconazole	Signature Care Miconazole 1
+miconazole	Signature Care Miconazole 3
+miconazole	Signature Care Miconazole 7
+miconazole	DSSTox_GSID_23319
+miconazole	Family Wellness Miconazole 3
+miconazole	Healthy Accents Miconazole 3
+miconazole	Healthy Accents Miconazole 7
+miconazole	Molecular AF Molecular Cream
+miconazole	Monistat 7 Sup Vag 100mg
+miconazole	Smart Sense 3 Day Treatment
+miconazole	Smart Sense 7 Day Treatment
+miconazole	Monazole 7 - Crm 20mg/g
+miconazole	Secura Antifungal Extra Thick
+miconazole	Terrasil Rapid-relief Vaginal
+miconazole	Quality Choice 3 Day Vaginal
+miconazole	Athlet Foot Well At Walgreens
+miconazole	Fungoid Tincture Treatment Kit
+miconazole	Genrx Daily Defense Antifungal
+miconazole	Miconazole 7 - Crm Vag 2%
+miconazole	CHEBI:6923
+miconazole	Desenex, Monistat, Zeasorb-AF
+miconazole	Femmesil Creme Maximum Strength
+miconazole	GTPL2449
+miconazole	Miconazole (JP15/USP/INN)
+miconazole	Miconazole (JP17/USP/INN)
+miconazole	DTXSID6023319
+miconazole	Medicated Anti-fungal Miconazole
+miconazole	Remedy Antifungal With Olivamine
+miconazole	SCHEMBL13934598
+miconazole	BDBM31772
+miconazole	CTK8B3340
+miconazole	MolPort-002-557-553
+miconazole	HMS2095M15
+miconazole	HMS2232B14
+miconazole	HMS3374J10
+miconazole	CPD-4501
+miconazole	HY-B0454
+miconazole	Budpak Antifungal Miconazole Nitrate
+miconazole	Good Neighbor Pharmacy Miconazole 1
+miconazole	Good Neighbor Pharmacy Miconazole 3
+miconazole	Good Neighbor Pharmacy Miconazole 7
+miconazole	Kaiser Permanente Miconazole Nitrate
+miconazole	Miconazole 1 Yeast Infection Relief
+miconazole	Monistat 7 With Reusable Applicator
+miconazole	Remedy Antifungal Targeted Treatment
+miconazole	Tox21_110601
+miconazole	ANW-42336
+miconazole	DAP000154
+miconazole	DL-448
+miconazole	GA8311
+miconazole	Image Essentials Miconazole Treatment
+miconazole	Miconazole Nitrate Vaginal Cream 2%
+miconazole	SBB057453
+miconazole	Remedy With Phytoplex Antifungal Clear
+miconazole	Topcare Miconazole 3 Combination Pack
+miconazole	API0003382
+miconazole	CCG-220067
+miconazole	CS-2565
+miconazole	CS20569
+miconazole	DS-1881
+miconazole	MCULE-2106181573
+miconazole	NSC-170986
+miconazole	Miconazole-Supplied by Selleck Chemicals
+miconazole	Miconazole 3 Day Ovule Treatment 400mg
+miconazole	Monistat 3 3-day Pre-filled Applicators
+miconazole	Monistat 7 7-day Disposable Applicators
+miconazole	NCGC00018294-02
+miconazole	NCGC00018294-04
+miconazole	NCGC00018294-06
+miconazole	CC-03621
+miconazole	Good Neighbor Pharmacy Miconazole Nitrate
+miconazole	HE020852
+miconazole	HE326912
+miconazole	Novana Antifungal Barrier With Miconazole
+miconazole	SC-19243
+miconazole	ST024747
+miconazole	Miconazole Nitrate Vaginal Cream USP, 2%
+miconazole	Monistat 1 Combination Pack Triple Action
+miconazole	Monistat 3 Combination Pack Triple Action
+miconazole	Monistat 7 Combination Pack Triple Action
+miconazole	AB0023582
+miconazole	AB2000633
+miconazole	AX8055353
+miconazole	CAS-22916-47-8
+miconazole	DB-046018
+miconazole	KB-216913
+miconazole	Micatin Powder Spray     - Unscented 2%
+miconazole	ST2413510
+miconazole	TC-131081
+miconazole	Topcare Miconazole 3 Yeast Infection Relief
+miconazole	4CH-014451
+miconazole	FT-0628942
+miconazole	Monistat 3 Combination Pack 3 Ovule Inserts
+miconazole	W4662
+miconazole	J10390
+miconazole	M-4631
+miconazole	Smart Sense 3 Day Treatment Vaginal Antifungal
+miconazole	AB00053500-23
+miconazole	AB00053500-24
+miconazole	AB00053500-25
+miconazole	AB00053500_26
+miconazole	AB00053500_27
+miconazole	AB00053500_28
+miconazole	AE-641/01941016
+miconazole	C-28730
+miconazole	Daktarin IV; MJR 1762; Monistat IV; NSC 17098
+miconazole	Monistat 7 Combination Pack 7-day Pre-filled Applicators
+miconazole	1-[2,4dichloro-beta-(2,4-dichlorobenzyloxy)phenethyl]imidazole
+miconazole	Welmedix Homecare Pro 2-IN-1 Antifungal and Skin Protectant
+miconazole	1-[2,4-Dichloro-beta-([2,4-dichloro-benzyl]oxy)phenethyl]imidazole
+miconazole	1-[2,4-dichloro-beta-(2,4-dichlorobenzyloxy)-phenethyl]imidazole
+miconazole	1-[2,4-dichloro-beta-(2,4-dichlorobenzyloxy)phenethyl]-imidazole
+miconazole	1-[2,4-dichloro-beta-(2,4-dichlorobenzyloxy)phenethyl]imidazole
+miconazole	Imidazole,4-dichloro-.beta.-[(2,4-dichlorobenzyl)oxy]phenethyl]-
+miconazole	1-(2-(2,4-dichlorophenyl)-2-((2,4-dichlorophenyl)methoxy)ethyl)-imidazol
+miconazole	1-[2,4-Dichloro-.beta.-[(2,4-dichlorobenzyl)oxy]phenethyl]imidazole
+miconazole	1-[2-(2,4-dichlorobenzyloxy)-2-(2,4-dichlorophenyl)ethyl]imidazole
+miconazole	1H-Imidazole,4-dichlorophenyl)-2-[(2,4-dichlorophenyl)methoxy]ethyl]-
+miconazole	1-[2-(2,4-Dichloro-benzyloxy)-2-(2,4-dichloro-phenyl)-ethyl]-1H-imidazole
+miconazole	1-[2-(2,4-dichlorobenzyl)oxy-2-(2,4-dichlorophenyl)ethyl]imidazole;nitric acid
+miconazole	1-[2-[(2,4-Dichlorobenzyl)oxy]-2-(2,4-dichlorophenyl)ethyl]-1H-imidazole #
+sulconazole	sulconazole
+sulconazole	61318-90-9
+sulconazole	Sulconazolum
+sulconazole	Sulconazol
+sulconazole	Exelderm
+sulconazole	Sulconazol [INN-Spanish]
+sulconazole	Sulconazolum [INN-Latin]
+sulconazole	Sulconazole [INN:BAN]
+sulconazole	C18H15Cl3N2S
+sulconazole	1-(2-((4-Chlorobenzyl)thio)-2-(2,4-dichlorophenyl)ethyl)-1H-imidazole
+sulconazole	CHEBI:77776
+sulconazole	1-[2-[(4-chlorophenyl)methylsulfanyl]-2-(2,4-dichlorophenyl)ethyl]imidazole
+sulconazole	1-[2-(4-Chloro-benzylsulfanyl)-2-(2,4-dichloro-phenyl)-ethyl]-1H-imidazole
+sulconazole	1-{2-[(4-chlorobenzyl)sulfanyl]-2-(2,4-dichlorophenyl)ethyl}-1H-imidazole
+sulconazole	1H-Imidazole, 1-(2-(((4-chlorophenyl)methyl)thio)-2-(2,4-dichlorophenyl)ethyl)-, (+-)-
+sulconazole	Sulconazole (INN)
+sulconazole	Spectrum_001416
+sulconazole	Prestwick0_000810
+sulconazole	Prestwick1_000810
+sulconazole	Prestwick2_000810
+sulconazole	Prestwick3_000810
+sulconazole	Spectrum2_001422
+sulconazole	Spectrum3_001457
+sulconazole	Spectrum4_000436
+sulconazole	Spectrum5_001155
+sulconazole	CHEMBL1221
+sulconazole	SCHEMBL34761
+sulconazole	BSPBio_000679
+sulconazole	BSPBio_002953
+sulconazole	KBioGR_000792
+sulconazole	KBioSS_001896
+sulconazole	cid_65495
+sulconazole	DivK1c_000220
+sulconazole	SPBio_001524
+sulconazole	SPBio_002600
+sulconazole	AC1L1K35
+sulconazole	BPBio1_000747
+sulconazole	DTXSID8044129
+sulconazole	BDBM31770
+sulconazole	KBio1_000220
+sulconazole	KBio2_001896
+sulconazole	KBio2_004464
+sulconazole	KBio2_007032
+sulconazole	KBio3_002453
+sulconazole	AFNXATANNDIXLG-UHFFFAOYSA-N
+sulconazole	NINDS_000220
+sulconazole	1-(beta-(4''-chlorobenzylthio)-2'4'-dichlorophenethyl)imidazole
+sulconazole	( -)-1-(2,4-Dichlor-beta-((4-chlorbenzyl)thio)phenethyl)imidazol
+sulconazole	( -)-1-(2,4-dichloro-beta-((p-chlorobenzyl)thio)phenethyl)imidazole
+sulconazole	(+-)-1-(2,4-Dichlor-beta-((4-chlorbenzyl)thio)phenethyl)imidazol
+sulconazole	(+-)-1-(2,4-dichloro-beta-((p-chlorobenzyl)thio)phenethyl)imidazole
+sulconazole	AKOS015961204
+sulconazole	API0004256
+sulconazole	DB06820
+sulconazole	IDI1_000220
+sulconazole	NCGC00018250-02
+sulconazole	AC-13116
+sulconazole	AK129814
+sulconazole	CC-34587
+sulconazole	DR002324
+sulconazole	HE362344
+sulconazole	AB0010744
+sulconazole	AX8152129
+sulconazole	KB-212468
+sulconazole	LS-176163
+sulconazole	AB00053607
+sulconazole	FT-0630725
+sulconazole	FT-0659334
+sulconazole	C08076
+sulconazole	D08535
+sulconazole	AB00053607_16
+sulconazole	AB00053607_17
+sulconazole	C-21661
+sulconazole	BRD-A70649075-008-05-0
+sulconazole	1-[2,4-dichloro-beta-(4-chlorobenzylthio)phenethyl]imidazole
+sulconazole	1-[beta-[(4-Chlorobenzyl)thio]-2,4-dichlorophenethyl]-1H-imidazole
+sulconazole	1H-Imidazole, 1-[2-[[(4-chlorophenyl)methyl]thio]-2-(2,4-dichlorophenyl)ethyl]-
+lasalocid	lasalocid
+lasalocid	Lasalocid A
+lasalocid	Avatec
+lasalocid	Lasalocide
+lasalocid	Lasalocide A
+lasalocid	Ionophore X 537A
+lasalocid	Antibiotic X 537A
+lasalocid	UNII-W7V2ZZ2FWB
+lasalocid	Lasalocide [INN-French]
+lasalocid	Lasalocidum [INN-Latin]
+lasalocid	Lasalocido [INN-Spanish]
+lasalocid	25999-31-9
+lasalocid	EINECS 247-401-9
+lasalocid	X 537A
+lasalocid	NSC 243048
+lasalocid	Ro 2-2985
+lasalocid	6-(7(R)-(5(S)-Ethyl-5-(5(R)-ethyltetrahydro-5-hydroxy-6(S)-methyl-2H-pyran-2(R)-yl)tetrahydro-3(S)-methyl-2(S)-furyl)-4(S)-hydroxy-3(R),5(S)-dimethyl-6-oxononyl)-2,3-cresotic acid
+lasalocid	6-(7-(5-Ethyl-5-(5-ethyltetrahydro-5-hydroxy-6-methyl-2H-pyran-2-yl)tetrahydro-3-methyl-2-furanyl)-4-hydroxy-3,5-dimethyl-6-oxononyl)-2-hydroxy-3-methylbenzoic acid (2R-(2alpha(2S*(3R*,4S*,5S*,7R*),3S*,5S*),5alpha,6beta))-
+lasalocid	Benzoic acid, 6-(7-(5-ethyl-5-(5-ethyltetrahydro-5-hydroxy-6-methyl-2H-pyran-2-yl)tetrahydro-3-methyl-2-furanyl)-4-hydroxy-3,5-dimethyl-6-oxononyl)-2-hydroxy-3-methyl-, (2R-(2alpha(2S*(3R*,4S*,5S*,7R*),3S*,5S*),5alpha,6beta))-
+lasalocid	Lasalocido
+lasalocid	Lasalocidum
+lasalocid	(2R-(2alpha(2S*(3R*,4S*,5S*,7R*)3S*,5S*),5alpha,6beta))-6-(7-(5-Ethyl-5-(5-ethyltetrahydro-5-hydroxy-6-methyl-2H-pyran-2-yl)tetrahydro-3-methyl-2-furyl)-4-hydroxy-3,5-dimethyl-6-oxononyl)-3-methylsalicylic acid
+lasalocid	2,3-Cresotic acid, 6-(7-(5-ethyl-5-(5-ethyltetrahydro-5-hydroxy-6-methyl-2H-pyran-2-yl)tetrahydro-3-methyl-2-furyl)-4-hydroxy-3,5-dimethyl-6-oxononyl)-, (-)-
+lasalocid	37259-88-4
+lasalocid	6-(7(R)-(5(S)-Ethyl-5-(R)-ethyltetrahydro-5-hydroxy-6(S)-methyl-2H-pyran-2(R)-yl)tetrahydro-3(S)-methyl-2(S)-furyl)-4(S)-hydroxy-3(R),5(S)-dimethyl-6-oxononyl)-2,3-cresotic acid
+lasalocid	Benzoic acid, 6-((3R,4S,5S,7R)-7-((2S,3S,5S)-5-ethyl-5-((2R,5R,6S)-5-ethyltetrahydro-5-hydroxy-6-methyl-2H-pyran-2-yl)tetrahydro-3-methyl-2-furanyl)-4-hydroxy-3,5-dimethyl-6-oxononyl)-2-hydroxy-3-methyl-
+lasalocid	Benzoic acid, 6-(7(R)-(5(S)-Ethyl-5-(5(R)-ethyltetrahydro-5-hydroxy-6(S)-methyl-2H-pyran-2(R)-yl)tetrahydro-3(S)-methyl-2(S)-furanyl)-4(S)-hydroxy-3(R),5(S)-dimethyl-6-oxononyl)-2-hydroxy-3-methyl-
+lasalocid	NSC243046
+lasalocid	Lasalocid [USAN:BAN:INN]
+lasalocid	Lasalocid [USAN:INN:BAN]
+lasalocid	X-537A
+lasalocid	AC1NSESZ
+lasalocid	Lasalocid (USAN/INN)
+lasalocid	Prestwick0_000828
+lasalocid	Prestwick1_000828
+lasalocid	Prestwick2_000828
+lasalocid	Prestwick3_000828
+lasalocid	W7V2ZZ2FWB
+lasalocid	BSPBio_000755
+lasalocid	SCHEMBL259623
+lasalocid	SPBio_002676
+lasalocid	BPBio1_000831
+lasalocid	CHEMBL145347
+lasalocid	MEGxm0_000441
+lasalocid	DTXSID9048485
+lasalocid	ACon0_000529
+lasalocid	ACon1_002071
+lasalocid	CHEBI:92181
+lasalocid	CTK4H7956
+lasalocid	BBMULGJBVDDDNI-OWKLGTHSSA-N
+lasalocid	HY-B1071
+lasalocid	ZINC4216707
+lasalocid	LMPK09000002
+lasalocid	Ro-22985
+lasalocid	CS-4627
+lasalocid	MCULE-5612044177
+lasalocid	AM021247
+lasalocid	HE072139
+lasalocid	LS-55461
+lasalocid	NP-009923
+lasalocid	D04671
+lasalocid	107684-72-0
+lasalocid	26934-10-1
+lasalocid	37213-87-9
+lasalocid	6-[(3R,4S,5S,7R)-7-[(2S,3S,5S)-5-ETHYL-5-[(2R,5R,6S)-5-ETHYL-5-HYDROXY-6-METHYL-OXAN-2-YL]-3-METHYL-OXOLAN-2-YL]-4-HYDROXY-3,5-DIMETHYL-6-OXO-NONYL]-2-HYDROXY-3-METHYL-BENZOIC ACID
+lasalocid	6-[(3R,4S,5S,7R)-7-[(2S,3S,5S)-5-ethyl-5-[(2R,5R,6S)-5-ethyl-5-hydroxy-6-methyl-tetrahydropyran-2-yl]-3-methyl-tetrahydrofuran-2-yl]-4-hydroxy-3,5-dimethyl-6-oxo-nonyl]-2-hydroxy-3-methyl-benzoic acid
+lasalocid	6-[(3R,4S,5S,7R)-7-[(2S,3S,5S)-5-ethyl-5-[(2R,5R,6S)-5-ethyl-5-hydroxy-6-methyloxan-2-yl]-3-methyloxolan-2-yl]-4-hydroxy-3,5-dimethyl-6-oxononyl]-2-hydroxy-3-methylbenzoic acid
+lasalocid	6-{7-[(5S)-5-((6S,5R)-5-Ethyl-5-hydroxy-6-methylperhydro-2H-pyran-2-yl)-5-ethyl-3-methyloxolan-2-yl](4S,5S,3R,7R)-4-hydroxy-3,5-dimethyl-6-oxononyl}-2-hydroxy-3-methylbenzoic acid
+lasalocid	802620-47-9
+chlorprothixene	chlorprothixene
+chlorprothixene	Taractan
+chlorprothixene	113-59-7
+chlorprothixene	Truxal
+chlorprothixene	Clorprotixeno
+chlorprothixene	Chlorprothixenum
+chlorprothixene	Paxyl
+chlorprothixene	Chlorprotixen
+chlorprothixene	Chlorprotixene
+chlorprothixene	Clorprotisene
+chlorprothixene	Chlorprothixen
+chlorprothixene	Chlothixen
+chlorprothixene	UNII-9S7OD60EWP
+chlorprothixene	(Z)-chlorprothixene
+chlorprothixene	Iaractan
+chlorprothixene	Rentovet
+chlorprothixene	Traquilan
+chlorprothixene	Vetacalm
+chlorprothixene	Tarasan
+chlorprothixene	Trictal
+chlorprothixene	Truxil
+chlorprothixene	Clorprotisene [DCIT]
+chlorprothixene	(Z)-2-Chloro-9-(omega-dimethylaminopropylidene)thioxanthene
+chlorprothixene	CHEMBL908
+chlorprothixene	N-714
+chlorprothixene	MK 184
+chlorprothixene	N 714C
+chlorprothixene	Truxaletten
+chlorprothixene	cis-2-Chloro-9-(3-dimethylaminopropylidene)thioxanthene
+chlorprothixene	Clorprotixeno [INN-Spanish]
+chlorprothixene	Taractan (TN)
+chlorprothixene	Chlorprothixenum [INN-Latin]
+chlorprothixene	Ro 4-0403
+chlorprothixene	S1771_Selleck
+chlorprothixene	CHEBI:50931
+chlorprothixene	HSDB 2808
+chlorprothixene	.alpha.-Chlorprothixene
+chlorprothixene	N 714
+chlorprothixene	NSC18720
+chlorprothixene	AC1LDI5C
+chlorprothixene	Prestwick2_000348
+chlorprothixene	EINECS 204-032-8
+chlorprothixene	NSC 18720
+chlorprothixene	9S7OD60EWP
+chlorprothixene	(3Z)-3-(2-chloro-9H-thioxanthen-9-ylidene)-N,N-dimethylpropan-1-amine
+chlorprothixene	Tactaran
+chlorprothixene	Bio-0770
+chlorprothixene	Chloroprothixene
+chlorprothixene	MLS000768404
+chlorprothixene	Chlorprothixene (JAN/USAN/INN)
+chlorprothixene	MolPort-002-590-309
+chlorprothixene	cis-Chlorprothixene
+chlorprothixene	NSC56379
+chlorprothixene	PDSP1_001124
+chlorprothixene	PDSP2_001108
+chlorprothixene	STK545163
+chlorprothixene	AKOS005065593
+chlorprothixene	NCGC00166133-01
+chlorprothixene	SMR000431796
+chlorprothixene	Cloxan, Taractan, Truxal, Chlorprothixene
+chlorprothixene	(Z)-2-Chloro-N,N-dimethylthioxanthene-delta(sup 9,gamma)-propylamine
+chlorprothixene	C18H18ClNS
+chlorprothixene	1-Propanamine, 3-(2-chloro-9H-thioxanthen-9-ylidene)-N,N-dimethyl-, (3Z)-
+chlorprothixene	C07953
+chlorprothixene	D00790
+chlorprothixene	WLN: T C666 BS IYJ FG IU3N1 & 1
+chlorprothixene	Chlorprotixine
+chlorprothixene	1-Propanamine, 3-(2-chloro-9H-thioxanthen-9-ylidene)-N,N-dimethyl-, (Z)-
+chlorprothixene	Cloxan
+chlorprothixene	Tardan
+chlorprothixene	2-Chloro-9-[3-(dimethylamino)propylidene]thioxanthene
+chlorprothixene	2-Chloro-9-[.omega.-(dimethylamino)propylidene]thioxanthene
+chlorprothixene	{3-[2-Chloro-thioxanthen-(9Z)-ylidene]-propyl}-dimethyl-amine
+chlorprothixene	alpha-Chlorprothixene
+chlorprothixene	(.alpha.-2-Chloro-9-.omega.-dimethylamino-propylamine)thioxanthene
+chlorprothixene	(3Z)-3-(2-chlorothioxanthen-9-ylidene)-N,N-dimethylpropan-1-amine
+chlorprothixene	(Z)-3-(2-chloro-9H-thioxanthen-9-ylidene)-N,N-dimethylpropan-1-amine
+chlorprothixene	Thioxanthene-delta(sup 9),gamma-propylamine, 2-chloro-N,N-dimethyl-, (Z)-
+chlorprothixene	Thioxanthene-delta9,gamma-propylamine, 2-chloro-N,N-dimethyl-, (Z)- (8CI)
+chlorprothixene	Chlorprothixene [USAN:INN:BAN:JAN]
+chlorprothixene	Spectrum_001436
+chlorprothixene	trans(E)-Chlorprothixen
+chlorprothixene	Prestwick0_000348
+chlorprothixene	Prestwick1_000348
+chlorprothixene	Prestwick3_000348
+chlorprothixene	Spectrum2_000857
+chlorprothixene	Spectrum3_001564
+chlorprothixene	Spectrum4_000729
+chlorprothixene	Spectrum5_001050
+chlorprothixene	AC1L1EC2
+chlorprothixene	AC1LDI59
+chlorprothixene	NCIStruc1_001079
+chlorprothixene	NCIStruc2_001491
+chlorprothixene	NCIOpen2_008054
+chlorprothixene	NCIOpen2_008709
+chlorprothixene	NCIOpen2_008749
+chlorprothixene	Oprea1_572513
+chlorprothixene	BSPBio_000415
+chlorprothixene	BSPBio_003068
+chlorprothixene	KBioGR_000998
+chlorprothixene	KBioSS_001916
+chlorprothixene	58889-16-0
+chlorprothixene	DivK1c_000143
+chlorprothixene	SPBio_000873
+chlorprothixene	SPBio_002336
+chlorprothixene	BPBio1_000457
+chlorprothixene	CHEBI:3651
+chlorprothixene	KBio1_000143
+chlorprothixene	KBio2_001916
+chlorprothixene	KBio2_004484
+chlorprothixene	KBio2_007052
+chlorprothixene	KBio3_002568
+chlorprothixene	chorprothixene
+chlorprothixene	NINDS_000143
+chlorprothixene	NCI56378
+chlorprothixene	[3-(2-CHLORO-9H-THIOXANTHEN-9-YLIDENE)PROPYL]DIMETHYLAMINE
+chlorprothixene	NCGC00013683
+chlorprothixene	(3-[2-CHLORO-THIOXANTHEN-(9Z)-YLIDENE]-PROPYL)-DIMETHYL-AMINE
+chlorprothixene	{3-[(9Z)-2-CHLORO-9H-THIOXANTHEN-9-YLIDENE]PROPYL}DIMETHYLAMINE
+chlorprothixene	AKOS005065494
+chlorprothixene	DB01239
+chlorprothixene	IDI1_000143
+chlorprothixene	NCGC00013683-02
+chlorprothixene	NCGC00096794-01
+chlorprothixene	4695-61-8
+chlorprothixene	NCI60_004376
+chlorprothixene	CAS-6469-93-8
+chlorprothixene	CID667467
+chlorprothixene	LS-153637
+chlorprothixene	AB00514666
+chlorprothixene	Cloxan;Taractan;Truxal
+chlorprothixene	CHLORTHIAXANTHENE
+chlorprothixene	L000872
+chlorprothixene	Chlorprothixene [USAN:USP:INN:BAN:JAN]
+chlorprothixene	I06-0499
+chlorprothixene	BRD-K59058766-003-04-5
+chlorprothixene	D002749
+chlorprothixene	SCHEMBL94235
+chlorprothixene	SCHEMBL94236
+chlorprothixene	3-(2-chlorothioxanthen-9-ylidene)-N,N-dimethyl-propan-1-amine
+chlorprothixene	3-(2-chlorothioxanthen-9-ylidene)-N,N-dimethylpropan-1-amine
+chlorprothixene	(3E)-3-(2-chlorothioxanthen-9-ylidene)-N,N-dimethylpropan-1-amine
+chlorprothixene	3-(2-chloro-9H-thioxanthen-9-ylidene)-N,N-dimethyl-1-propanamine
+chlorprothixene	ZINC1137
+chlorprothixene	Thioxanthene-.DELTA.9,.gamma.-propylamine, 2-chloro-N,N-dimethyl-, (Z)-
+chlorprothixene	Thioxanthene-delta9,gamma-propylamine, 2-chloro-N,N-dimethyl-, (Z)-
+chlorprothixene	CID2729
+chlorprothixene	1-Propanamine, 3-(2-chloro-9H-thioxanthen-9-ylidene)-N,N-dimethyl-, (3E)-
+chlorprothixene	2-Chloro-N, .gamma.-propylamine
+chlorprothixene	HMS2788N19
+chlorprothixene	1-Propanamine,N-dimethyl-, (Z)-
+chlorprothixene	HY-B0274
+chlorprothixene	BDBM50240514
+chlorprothixene	CCG-36988
+chlorprothixene	CID667466
+chlorprothixene	DAP000833
+chlorprothixene	NSC-18720
+chlorprothixene	Ro-40403
+chlorprothixene	AB07571
+chlorprothixene	API0001973
+chlorprothixene	CS-2264
+chlorprothixene	KS-5102
+chlorprothixene	NE11732
+chlorprothixene	Ro-4-0403
+chlorprothixene	PL005904
+chlorprothixene	PL041984
+chlorprothixene	(Z)-2-Chloro-N,(sup.gamma.)-propylamine
+chlorprothixene	AB2000283
+chlorprothixene	A8398
+chlorprothixene	Chlorprothixene-Supplied by Selleck Chemicals
+chlorprothixene	2461-06-5
+chlorprothixene	EN300-119498
+chlorprothixene	BRD-K81091703-003-01-0
+chlorprothixene	Thioxanthene-.delta.(sup 9), 2-chloro-N,N-dimethyl-
+chlorprothixene	Thioxanthene-.DELTA.9, 2-chloro-N,N-dimethyl-, (Z)-
+chlorprothixene	(alpha-2-chloro-9-omega-dimethylamino-propylamine)thioxanthene
+chlorprothixene	(alpha-2-Chloro-9-omega-dimethylamino-propylidene)thioxanthene
+chlorprothixene	(Z)-2-Chloro-N,N-dimethylthioxanthene-(GR D)9,gamma-propylamine
+chlorprothixene	(3E)-3-(2-Chloro-9H-thioxanthen-9-ylidene)-N,N-dimethyl-1-propanamine
+chlorprothixene	(3Z)-3-(2-chlorothioxanthen-9-ylidene)-N,N-dimethyl-propan-1-amine
+chlorprothixene	(Z)-2-Chloro-N,N-dimethylthioxanthene-delta(sup9),(supgamma )-propylamine
+chlorprothixene	2-Chloro-N,N-dimethylthioxanthene-.delta.(sup 9), .gamma.-propylamine
+chlorprothixene	Thioxanthene-.delta.(sup 9), .gamma.-propylamine, 2-chloro-N,N-dimethyl-
+chlorprothixene	(Z)-2-Chloro-N,N-dimethylthioxanthene-.DELTA.(sup9),(sup.gamma.)-propylamine
+chlorprothixene	(Z)-3-(2-CHLORO-9H-THIOXANTHEN-9-YLIDENE)-N,N-DIMETHYL-1-PROPANAMINE
+hexetidine	hexetidine
+hexetidine	Oraldene
+hexetidine	Hexoral
+hexetidine	Hextril
+hexetidine	141-94-6
+hexetidine	Glypesin
+hexetidine	Elsix
+hexetidine	Collu hextril
+hexetidine	Sterilate
+hexetidine	Sterisil
+hexetidine	Triocil
+hexetidine	Triscol
+hexetidine	Duranil Aerosol
+hexetidine	Collu-Hextril
+hexetidine	Steri/Sol
+hexetidine	Hexetidinum
+hexetidine	Drossadin
+hexetidine	Hexetidina
+hexetidine	Oraseptic
+hexetidine	Paradenyl
+hexetidine	Steri/Sol (VAN)
+hexetidine	Caswell No. 033BB
+hexetidine	Hexetidinum [INN-Latin]
+hexetidine	Hexetidina [INN-Spanish]
+hexetidine	NSC 17764
+hexetidine	5-Amino-1,3-bis(2-ethylhexyl)hexahydro-5-methylpyrimidine
+hexetidine	5-Pyrimidinamine, 1,3-bis(2-ethylhexyl)hexahydro-5-methyl-
+hexetidine	C21H45N3
+hexetidine	EINECS 205-513-5
+hexetidine	AI3-15546
+hexetidine	5-Amino-1,3-bis(2-ethylhexyl)-5-methylhexahydropyrimidine
+hexetidine	P 252
+hexetidine	DTOUUUZOYKYHEP-UHFFFAOYSA-N
+hexetidine	Hexetidine, mixture of stereoisomers
+hexetidine	1,3-Bis(2-ethylhexyl)-5-amino-hexahydro-5-methylpyrimidin
+hexetidine	DSSTox_CID_25297
+hexetidine	DSSTox_RID_80788
+hexetidine	DSSTox_GSID_45297
+hexetidine	1,3-bis(2-ethylhexyl)-5-methyl-1,3-diazinan-5-amine
+hexetidine	1,3-Bis(2-ethylhexyl)hexahydro-5-methyl-5-pyrimidiamine
+hexetidine	5-Amino-1,3-bis(2-ethylhexyl)-5-methyl-hexhydropyrimidine
+hexetidine	Bactidol
+hexetidine	Hexigel
+hexetidine	Oraldine
+hexetidine	Pyrimidine, 5-amino-1,3-bis(2-ethylhexyl)hexahydro-5-methyl-
+hexetidine	Vagi-Hex
+hexetidine	Hexetidine [BAN]
+hexetidine	Hexetidine [INN:BAN]
+hexetidine	Hexopyrimidine
+hexetidine	Stomatidin
+hexetidine	Belosept
+hexetidine	Esetidina
+hexetidine	Hexocil
+hexetidine	Stopangin
+hexetidine	1,3-bis(2-ethylhexyl)-5-methyl-1,3-diazaperhydroine-5-ylamine
+hexetidine	Actigrip Gola
+hexetidine	HSDB 7828
+hexetidine	Isozid-H
+hexetidine	Steri/sol Liquid
+hexetidine	NCGC00016404-01
+hexetidine	CAS-141-94-6
+hexetidine	Hexetidine (INN)
+hexetidine	Prestwick_800
+hexetidine	Spectrum_000236
+hexetidine	rarechem ab pp 1426
+hexetidine	rarechem ah ck 0019
+hexetidine	Prestwick0_000551
+hexetidine	Prestwick1_000551
+hexetidine	Prestwick2_000551
+hexetidine	Prestwick3_000551
+hexetidine	Spectrum2_000953
+hexetidine	Spectrum3_000271
+hexetidine	Spectrum4_000395
+hexetidine	Spectrum5_001435
+hexetidine	timtec-bb sbb001384
+hexetidine	AC1L1GB5
+hexetidine	AC1Q2V9B
+hexetidine	AC1Q4V4W
+hexetidine	SCHEMBL56672
+hexetidine	BSPBio_000621
+hexetidine	BSPBio_001742
+hexetidine	KBioGR_000949
+hexetidine	KBioSS_000716
+hexetidine	MLS002207232
+hexetidine	DivK1c_000280
+hexetidine	SPECTRUM1500633
+hexetidine	SPBio_000946
+hexetidine	SPBio_002542
+hexetidine	BPBio1_000685
+hexetidine	CHEMBL144673
+hexetidine	hexetidine,mixtureofstereoisomers
+hexetidine	DTXSID1045297
+hexetidine	CHEBI:94339
+hexetidine	CTK8G0178
+hexetidine	HMS500N22
+hexetidine	KBio1_000280
+hexetidine	KBio2_000716
+hexetidine	KBio2_003284
+hexetidine	KBio2_005852
+hexetidine	KBio3_001242
+hexetidine	1,3-bis(2-ethylhexyl)hexahydro-5-methyl-5-pyrimidinamine
+hexetidine	MolPort-001-770-543
+hexetidine	NINDS_000280
+hexetidine	HMS1569P03
+hexetidine	HMS1921M09
+hexetidine	HMS2096P03
+hexetidine	Pharmakon1600-01500633
+hexetidine	HY-B0996
+hexetidine	NSC17764
+hexetidine	ZX-AT010428
+hexetidine	Tox21_110424
+hexetidine	AR-1L5622
+hexetidine	CCG-39752
+hexetidine	MFCD00010428
+hexetidine	NSC-17764
+hexetidine	NSC757394
+hexetidine	OR8156
+hexetidine	SBB001384
+hexetidine	AKOS000277944
+hexetidine	AKOS024348907
+hexetidine	Tox21_110424_1
+hexetidine	CS-4490
+hexetidine	DB08958
+hexetidine	MCULE-8471986715
+hexetidine	NSC-757394
+hexetidine	IDI1_000280
+hexetidine	NCGC00094819-01
+hexetidine	NCGC00094819-02
+hexetidine	NCGC00094819-03
+hexetidine	NCGC00094819-04
+hexetidine	NCGC00094819-07
+hexetidine	AN-43898
+hexetidine	CC-29333
+hexetidine	HE009948
+hexetidine	LP073823
+hexetidine	SMR000059080
+hexetidine	Hexetidine, mixture of stereoisomers, 97%
+hexetidine	KB-270000
+hexetidine	LS-173102
+hexetidine	AB00052133
+hexetidine	ST50826237
+hexetidine	X6883
+hexetidine	38805A
+hexetidine	D07068
+hexetidine	AB00052133_06
+hexetidine	C-20302
+hexetidine	Pyrimidine,3-bis(2-ethylhexyl)hexahydro-5-methyl-
+hexetidine	SR-01000872662
+hexetidine	SR-01000872662-2
+hexetidine	I14-44805
+hexetidine	1,3-bis(2-ethylhexyl)hexahydro-5-methyl-5-pyrimidinamin
+hexetidine	5-Pyrimidinamine,3-bis(2-ethylhexyl)hexahydro-5-methyl-
+hexetidine	1,3-bis(2-ethylhexyl)-5-methyl-hexahydropyrimidin-5-amine
+hexetidine	5-pyrimidinamine,1,3-bis(2-ethylhexyl)hexahydro-5-methyl-
+hexetidine	Hexetidine, European Pharmacopoeia (EP) Reference Standard
+hexetidine	1,3-Bis(2-ethylhexyl)-5-methylhexahydro-5-pyrimidinamine #
+hexetidine	hexetidine,5-amino-1,3-bis(2-ethylhexyl)hexahydro-5-methylpyrimidine
+hexetidine	Pyrimidine, 5-amino-1,3-bis(2-ethylhexyl)hexahydro-5-methyl- (8CI)
+maprotiline	maprotiline
+maprotiline	10262-69-8
+maprotiline	Maprotylina
+maprotiline	Maprotilinum
+maprotiline	Maprotilina
+maprotiline	Maprotylina [Polish]
+maprotiline	Ludiomil
+maprotiline	Dibencycladine
+maprotiline	Maprotilinum [INN-Latin]
+maprotiline	Deprilept
+maprotiline	Maprotilin
+maprotiline	Maprotilina [INN-Spanish]
+maprotiline	276-Ba
+maprotiline	UNII-2U1W68TROF
+maprotiline	9,10-Ethanoanthracene-9(10H)-propanamine, N-methyl-
+maprotiline	N-Methyl-9,10-ethanoanthracene-9(10H)-propylamine
+maprotiline	EINECS 233-599-4
+maprotiline	BRN 2385493
+maprotiline	Maprotiline [USAN:BAN:INN]
+maprotiline	CHEBI:6690
+maprotiline	Maprotiline (USAN)
+maprotiline	9,10-Ethanoanthracene-9(10H)-propylamine, N-methyl-
+maprotiline	Spectrum_000887
+maprotiline	Tocris-0935
+maprotiline	Prestwick0_000346
+maprotiline	Prestwick1_000346
+maprotiline	Prestwick2_000346
+maprotiline	Prestwick3_000346
+maprotiline	Spectrum2_000139
+maprotiline	Spectrum3_000483
+maprotiline	Spectrum4_000035
+maprotiline	Spectrum5_000918
+maprotiline	Lopac-M-9651
+maprotiline	3-(9,10-Dihydro-9,10-ethanoanthracen-9-yl)propylmethylamine
+maprotiline	Ba-34,276
+maprotiline	AC1L1H7N
+maprotiline	3-(9,10-Dihydro-9,10-ethanoanthracen-9-yl)-N-methylpropan-1-amine
+maprotiline	Lopac0_000812
+maprotiline	BA-34276
+maprotiline	BSPBio_000411
+maprotiline	BSPBio_001945
+maprotiline	KBioGR_000469
+maprotiline	KBioSS_001367
+maprotiline	CHEMBL21731
+maprotiline	DivK1c_000891
+maprotiline	SPBio_000218
+maprotiline	SPBio_002332
+maprotiline	MLS001201766
+maprotiline	BPBio1_000453
+maprotiline	STOCK6S-18648
+maprotiline	KBio1_000891
+maprotiline	KBio2_001367
+maprotiline	KBio2_003935
+maprotiline	KBio2_006503
+maprotiline	KBio3_001445
+maprotiline	58902-67-3 (mesylate)
+maprotiline	BA-34276 [As Hydrochloride]
+maprotiline	NINDS_000891
+maprotiline	C07107
+maprotiline	10347-81-6 (hydrochloride)
+maprotiline	HMS2089K11
+maprotiline	N-Methyl-9,10-ethanoanthracene-9(10H)-propanamine
+maprotiline	STK711156
+maprotiline	TBB066626
+maprotiline	DB00934
+maprotiline	IDI1_000891
+maprotiline	SMP1_000169
+maprotiline	NCGC00015708-01
+maprotiline	NCGC00015708-04
+maprotiline	NCGC00015708-10
+maprotiline	NCGC00016691-01
+maprotiline	NCGC00018217-01
+maprotiline	NCGC00024886-01
+maprotiline	NCGC00024886-02
+maprotiline	NCGC00024886-03
+maprotiline	AC-12507
+maprotiline	LS-66338
+maprotiline	SMR000641863
+maprotiline	CAS-10347-81-6
+maprotiline	AB00514665
+maprotiline	D02566
+maprotiline	DSSTox_CID_25029
+maprotiline	DSSTox_RID_80649
+maprotiline	DSSTox_GSID_45029
+maprotiline	L001173
+maprotiline	BRD-K03319035-003-02-7
+maprotiline	BRD-K25433859-003-11-4
+maprotiline	3-(9,10-ethanoanthracen-9(10H)-yl)-N-methylpropan-1-amine
+maprotiline	CAS-10262-69-8
+maprotiline	Maprotiline [USAN:INN:BAN]
+maprotiline	PMS-maprotiline
+maprotiline	Teva-maprotiline
+maprotiline	CID4011
+maprotiline	Ludiomil Tab 10mg
+maprotiline	Ludiomil Tab 25mg
+maprotiline	Ludiomil Tab 50mg
+maprotiline	Ludiomil Tab 75mg
+maprotiline	nchembio747-comp22
+maprotiline	2U1W68TROF
+maprotiline	SCHEMBL33993
+maprotiline	SCHEMBL121015
+maprotiline	GTPL2402
+maprotiline	Novo-maprotiline  - Tab 10mg
+maprotiline	CHEMBL1201257
+maprotiline	DTXSID7045029
+maprotiline	MolPort-002-507-847
+maprotiline	MolPort-002-671-472
+maprotiline	QSLMDECMDJKHMQ-UHFFFAOYSA-N
+maprotiline	HMS2962E12
+maprotiline	ZINC1530688
+maprotiline	Tox21_110200
+maprotiline	0643AA
+maprotiline	AR-111
+maprotiline	BBL010079
+maprotiline	BDBM50101973
+maprotiline	BDBM50378025
+maprotiline	DAP001150
+maprotiline	MFCD00661057
+maprotiline	AKOS005530670
+maprotiline	Tox21_110200_1
+maprotiline	CCG-204896
+maprotiline	BA-34,276 [AS HYDROCHLORIDE]
+maprotiline	NCGC00015708-02
+maprotiline	NCGC00015708-03
+maprotiline	NCGC00015708-05
+maprotiline	NCGC00015708-06
+maprotiline	NCGC00015708-07
+maprotiline	NCGC00015708-08
+maprotiline	NCGC00015708-09
+maprotiline	NCGC00015708-11
+maprotiline	NCGC00015708-12
+maprotiline	NCGC00015708-13
+maprotiline	NCGC00015708-15
+maprotiline	NCGC00015708-17
+maprotiline	AJ-26678
+maprotiline	AK116460
+maprotiline	BC204740
+maprotiline	DR000938
+maprotiline	PL039942
+maprotiline	SC-43881
+maprotiline	KB-233403
+maprotiline	EN300-226729
+maprotiline	AB00053679-33
+maprotiline	AB00053679_34
+maprotiline	AB00053679_35
+maprotiline	AB01275432-01
+maprotiline	3-(9,10-Ethanoanthracen-9(10H)-yl)-N-methylpropan-1-amine (HCl)
+maprotiline	METHYL(3-{TETRACYCLO[6.6.2.0(2),?.0?,(1)?]HEXADECA-2(7),3,5,9(14),10,12-HEXAEN-1-YL}PROPYL)AMINE
+maprotiline	methyl(3-{tetracyclo[6.6.2.0;{2,7}.0;{9,14}]hexadeca-2(7),3,5,9(14),10,12-hexaen-1-yl}propyl)amine
+fendiline	fendiline
+fendiline	Fendilin
+fendiline	13042-18-7
+fendiline	Sensit
+fendiline	Phendilin
+fendiline	Fendilinum [INN-Latin]
+fendiline	Fendilina [INN-Spanish]
+fendiline	Fendiline [INN]
+fendiline	Difmecor
+fendiline	EINECS 235-915-6
+fendiline	CHEMBL254832
+fendiline	Fendiline (INN)
+fendiline	Benzenepropanamine, gamma-phenyl-N-(1-phenylethyl)-
+fendiline	Benzenepropanamine, .gamma.-phenyl-N-(1-phenylethyl)-
+fendiline	Fendiline HCl
+fendiline	3,3-diphenyl-N-(1-phenylethyl)propan-1-amine
+fendiline	Fendilinum
+fendiline	Fendilina
+fendiline	Senzit
+fendiline	NCGC00018223-06
+fendiline	SPBio_001131
+fendiline	(+/-)-Fendiline
+fendiline	Spectrum_000443
+fendiline	AC1L1FPB
+fendiline	Prestwick0_000270
+fendiline	Prestwick1_000270
+fendiline	Prestwick2_000270
+fendiline	Prestwick3_000270
+fendiline	Spectrum2_001006
+fendiline	Spectrum3_001436
+fendiline	Spectrum4_000417
+fendiline	Spectrum5_001302
+fendiline	AC1Q4TW7
+fendiline	SCHEMBL63814
+fendiline	BSPBio_000120
+fendiline	BSPBio_003172
+fendiline	KBioGR_000714
+fendiline	KBioSS_000923
+fendiline	DivK1c_000604
+fendiline	SPBio_002339
+fendiline	Benzylamine, N-(3,3-diphenylpropyl)-.alpha.-methyl-
+fendiline	BPBio1_000132
+fendiline	DTXSID5048473
+fendiline	BDBM61401
+fendiline	CHEBI:94434
+fendiline	cid_5702162
+fendiline	KBio1_000604
+fendiline	KBio2_000923
+fendiline	KBio2_003491
+fendiline	KBio2_006059
+fendiline	KBio3_002392
+fendiline	C23H25N
+fendiline	NINDS_000604
+fendiline	NMKSAYKQLCHXDK-UHFFFAOYSA-N
+fendiline	AR-1I5212
+fendiline	DNC011273
+fendiline	AKOS022180841
+fendiline	DB08980
+fendiline	MCULE-6906880316
+fendiline	IDI1_000604
+fendiline	QTL1_000037
+fendiline	NCGC00018223-02
+fendiline	AK-57378
+fendiline	DR001358
+fendiline	LS-31045
+fendiline	OR212660
+fendiline	N-(1-Phenylethyl)-3,3-diphenylpropylamine
+fendiline	N-(3,3-diphenylpropyl)-1-phenylethylamine
+fendiline	AB00053592
+fendiline	3,3-Diphenyl-N-(1-phenylethyl)-1-propanamine
+fendiline	D07185
+fendiline	AB00053592_14
+fendiline	3,3-Diphenyl-N-(1-phenylethyl)-1-propanamine #
+fendiline	N-(3,3-Diphenylpropyl)-.alpha.-methylbenzylamine
+fendiline	3,3-diphenylpropyl(1-phenylethyl)amine;hydrochloride
+fendiline	BRD-A71033472-003-05-6
+fendiline	3,3-diphenyl-N-(1-phenylethyl)-1-propanamine;hydrochloride
+fendiline	3,3-diphenyl-N-(1-phenylethyl)propan-1-amine;hydrochloride
+pizotifen	Pizotifen
+pizotifen	PIZOTYLINE
+pizotifen	Sandomigran
+pizotifen	15574-96-6
+pizotifen	Litec
+pizotifen	Sandomygran
+pizotifen	Pizotifenum
+pizotifen	Pizotifene
+pizotifen	Pizotifeno
+pizotifen	Polomigran
+pizotifen	BC 105
+pizotifen	BC-105
+pizotifen	Pizotyline [USAN]
+pizotifen	Pizotifan
+pizotifen	Pizotifene [INN-French]
+pizotifen	Pizotifenum [INN-Latin]
+pizotifen	Pizotifeno [INN-Spanish]
+pizotifen	UNII-0BY8440V3N
+pizotifen	Pizotifen malate
+pizotifen	EINECS 239-632-9
+pizotifen	BRN 0753534
+pizotifen	4-(9,10-Dihydro-4H-benzo[4,5]cyclohepta[1,2-b]thien-4-ylidene)-1-methylpiperidine
+pizotifen	C19H21NS
+pizotifen	CHEBI:50212
+pizotifen	Pizotyline (USAN)
+pizotifen	MFCD00864192
+pizotifen	4-(9,10-dihydro-4H-benzo[4,5]cyclohepta[1,2-b]thiophen-4-ylidene)-1-methylpiperidine
+pizotifen	Piperidine, 4-(9,10-dihydro-4H-benzo(4,5)cyclohepta(1,2-b)thien-4-ylidene)-1-methyl-
+pizotifen	NCGC00163169-01
+pizotifen	Sandomigran (TN)
+pizotifen	DSSTox_CID_3490
+pizotifen	4-(9,10-Dihydro-4H-benzo(4,5)cyclohepta(1,2-b)thien-4-ylidene)-1-methylpiperidine
+pizotifen	DSSTox_RID_77051
+pizotifen	Piperidine, 4-(9,10-dihydro-4H-benzo[4,5]cyclohepta[1,2-b]thien-4-ylidene)-1-methyl-
+pizotifen	DSSTox_GSID_23490
+pizotifen	W-108016
+pizotifen	Pizotyline; 4-(9,10-Dihydro-4H-benzo[4,5]cyclohepta[1,2-b]thien-4-ylidene)-1-methylpiperidine
+pizotifen	CAS-15574-96-6
+pizotifen	Sandomigran, pizotyline, 5189-11-7
+pizotifen	Pizotylline
+pizotifen	Sandomigram
+pizotifen	Sanomigran
+pizotifen	Sanmigran
+pizotifen	Pizotifen (INN)
+pizotifen	Biomol-NT_000102
+pizotifen	GTPL93
+pizotifen	AC1L1D4Y
+pizotifen	AC1Q7FY1
+pizotifen	Oprea1_684518
+pizotifen	SCHEMBL44122
+pizotifen	MLS006011927
+pizotifen	Pizotyline maleate (Salt/Mix)
+pizotifen	BPBio1_001391
+pizotifen	CHEMBL294951
+pizotifen	ZINC1968
+pizotifen	DTXSID6023490
+pizotifen	Pizotifen, >=98% (HPLC)
+pizotifen	BDBM82088
+pizotifen	CTK8G2451
+pizotifen	FIADGNVRKBPQEU-UHFFFAOYSA-N
+pizotifen	MolPort-002-654-036
+pizotifen	0BY8440V3N
+pizotifen	BB_SC-2162
+pizotifen	HY-B0115
+pizotifen	Tox21_112024
+pizotifen	AN-920
+pizotifen	BBL009911
+pizotifen	NSC_27400
+pizotifen	PDSP1_001602
+pizotifen	PDSP2_001586
+pizotifen	STK801341
+pizotifen	AKOS005612964
+pizotifen	Tox21_112024_1
+pizotifen	API0003882
+pizotifen	CS-1870
+pizotifen	MCULE-5738749931
+pizotifen	Piperidine, 4-(9,10-dihydro-4H-benzo[ 4,5]cyclohepta[1,2-b]thien-4-ylidene)-1-methyl-
+pizotifen	NCGC00163169-02
+pizotifen	NCGC00163169-03
+pizotifen	NCGC00163169-05
+pizotifen	AC-11996
+pizotifen	BC203862
+pizotifen	H903
+pizotifen	HE004419
+pizotifen	PL047182
+pizotifen	SC-46107
+pizotifen	SMR004703517
+pizotifen	AB0013346
+pizotifen	CAS_15574-96-6
+pizotifen	LS-115012
+pizotifen	AB00514749
+pizotifen	FT-0082645
+pizotifen	FT-0655575
+pizotifen	D05523
+pizotifen	AB00514749_11
+pizotifen	AB00514749_12
+pizotifen	C-18523
+pizotifen	L000722
+pizotifen	BRD-K75958195-001-01-7
+pizotifen	BRD-K75958195-037-03-7
+pizotifen	4-OXO-9,10-DIHYDRO-4H-BENZO(4,5) CYCLOHEPTO(1,2,B)
+pizotifen	4-OXO-9,10-DIHYDRO-4H-BENZO(4,5) CYCLOHEPTO(1,2,B) THIOPHENE
+pizotifen	4-(1-Methyl-4-piperidylidene)-9,10-dihydro-4H-benzo[4,5]cyclohepta[1,2-b]thiophene
+pizotifen	Piperidine,4-(9,10-dihydro-4H-benzo[4,5]cyclohepta[1,2-b]thien-4-ylidene)-1-methyl-
+pizotifen	1-METHYL-4-{6-THIATRICYCLO[8.4.0.0(3),?]TETRADECA-1(10),3(7),4,11,13-PENTAEN-2-YLIDENE}PIPERIDINE
+pizotifen	1-methyl-4-{6-thiatricyclo[8.4.0.0;{3,7}]tetradeca-1(14),3(7),4,10,12-pentaen-2-ylidene}piperidine
+pizotifen	4-(9,10-Dihydro-4H-benzo[4,5]cyclohepta[1,2-b]thiophen-4-ylidene)-1-methylpiperidine (C4H6O5)
